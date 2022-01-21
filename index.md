@@ -49,6 +49,21 @@ A FIT은 언택트 시대에 사용자들이 인공지능을 활용해 비대면
 Android Studio + Xcode + Django(Rest API Server) + Data Processing & AI modeling(MediaPipe&CNN)구조로
 개발했으며, 저는 Data Processing&AI modeling 을 담당했습니다. Jupyter Notebook을 사용하여 진행했고 제가
 사용한 기술스택은 다음과 같습니다.
+<img src="https://img.shields.io/badge/Jupyter#F37626?style=for-the-badge&logo=jupyter&logoColor=orange">
+- **Jupyter Notebook(Data Processing & AI modeling)**
+- **Python**
+- **Mediapipe**
+- **Tensorflow(CNN)**
+- **AWS(EC2)**
+- **Ubuntu(20.04 LTS)**
+- Matplotlib
+- Image Generator
+- OpenCV
+- Pandas
+- Numpy
+- PIL
+
+<fond color="red"> ■ 프로젝트에서는 Data Processing&AI modeling / 기획 / 설계 / 일정관리 등을 담당했습니다. </font>
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
