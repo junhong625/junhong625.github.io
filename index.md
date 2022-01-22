@@ -6,6 +6,7 @@
 >A FIT은 언택트 시대에 사용자들이 인공지능을 활용해 비대면으로 자세 교정을 받고 안전하게 운동할 수 있도록 도와주는 어플리케이션입니다.
 
 ## A FIT의 특징
+
 - 나만의 공간에서 언제든 쉽게 올바른 자세인지 확인이 가능(피드백 제공)
 - 포즈 디텍션(Pose Dectection) 기술을 활용한 운동자세 분류 기능
 - 다양한 운동 자세들을 주요 관절 부위별로 분석
@@ -46,7 +47,8 @@
   <p/>
 
 ## Project Sturcture
->Android Studio + Xcode + Django(Rest API Server) + Data Processing & AI modeling(MediaPipe&CNN)구조로개발했으며, 저는 Data Processing&AI modeling 을 담당했습니다. Jupyter >Notebook을 사용하여 진행했고 제가 사용한 기술스택은 다음과 같습니다.
+>Android Studio + Xcode + Django(Rest API Server) + Data Processing & AI modeling(MediaPipe&CNN)구조로개발했으며, 저는 Data Processing&AI modeling 을 담당했습니다. 
+>Jupyter Notebook을 사용하여 진행했고 제가 사용한 기술스택은 다음과 같습니다.
 
 - Python
 - Mediapipe<img src="https://user-images.githubusercontent.com/83000975/150539318-897a4b2d-494c-4543-b6ad-2b0f35f45551.jpg" width="100" height="20">
@@ -55,7 +57,7 @@
 - Ubuntu(20.04 LTS)
 - Matplotlib
 - Image Generator
- OpenCV
+- OpenCV
 - Pandas
 - Numpy
 - PIL
