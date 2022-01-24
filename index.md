@@ -110,6 +110,7 @@ history=model.fit(lst_im,lst_label,epochs=20,
 > GPU를 사용한 빠른 학습을 위해 AWS EC2(Ubuntu 20.04 LTS) 환경에서 학습을 진행
 - 인스턴스 : g3.4xlarge
 - GPU : M60
+- 사용 라이브러리 : tensorflow-gpu
 
 
 ```markdown
