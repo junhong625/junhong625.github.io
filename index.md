@@ -101,8 +101,8 @@ history=model.fit(lst_im,lst_label,epochs=20,
                  validation_data=(x_val,y_val))
 ```
 
-> ***위의 코드로 학습을 진행했고 99%의 정확도를 가진 자세 분류 모델을 생성했습니다.***
-> [***CNN학습 코드*** -> [Link](https://github.com/junhong625/A_FIT/blob/%EC%95%88%EB%8D%95%EA%B5%AC/Data%20processing&AI/AI/CNN.py)]
+***위의 코드로 학습을 진행했고 99%의 정확도를 가진 자세 분류 모델을 생성했습니다.***
+[***CNN학습 코드*** -> [Link](https://github.com/junhong625/A_FIT/blob/%EC%95%88%EB%8D%95%EA%B5%AC/Data%20processing&AI/AI/CNN.py)]
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
