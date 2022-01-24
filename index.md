@@ -19,16 +19,14 @@
 <p align="left">
 <img src = "https://user-images.githubusercontent.com/83000975/150528018-38bfd573-7838-425e-929a-4698495f2040.png" width="200" height="400" />
   <p/>
-  
-***
 
- *** 2. 메인화면 ***
+
+ ***2. 메인화면***
 >자세 분석, 운동자세 학습, 로그아웃의 기능이 있습니다.
 <p align="left">
 <img src = "https://user-images.githubusercontent.com/83000975/150529056-0bfef46e-dc69-4156-bd9b-5e26bf8ccdb0.png" width="200" height="400" />
   <p/>
   
- ***
  
  ***3. 자세분석***
 >사용자가 본인의 운동자세에 대한 피드백을 받을 수 있습니다.(스쿼트와 플랭크 자세 분석 가능)
@@ -36,8 +34,7 @@
 <img src = "https://user-images.githubusercontent.com/83000975/150529354-bbda87e9-411f-4ec2-81ea-09d68906ffa7.png" width="200" height="400" />
 <img src = "https://user-images.githubusercontent.com/83000975/150529388-2d59493f-8c91-48fd-89e2-4fcca19e9597.png" width="200" height="400" />
   <p/>
-  
- ***
+ 
  
  ***4. 운동 자세 학습 기능***
 >각 운동자세마다 올바른 운동 방법에 대해 학습할 수 있습니다.
