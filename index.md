@@ -106,8 +106,8 @@ history=model.fit(lst_im,lst_label,epochs=20,
 
 [***CNN학습 코드*** -> [Link](https://github.com/junhong625/A_FIT/blob/%EC%95%88%EB%8D%95%EA%B5%AC/Data%20processing&AI/AI/CNN.py)]
 
+## AWS EC2(Ubuntu 20.04 LTS)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
 ```markdown
