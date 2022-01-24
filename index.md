@@ -75,9 +75,23 @@
 
 ## Tensorflow(CNN)
 ><img src="https://user-images.githubusercontent.com/83000975/150538372-02d09225-934c-4984-a80b-09e7f7ae9cc1.jpg" width="100" height="20">를 이용하여 CNN학습을 진행했습니다.
-
-
-
+```
+model=Sequential()
+model.add(Conv2D(filters=50,kernel_size=3,padding='same',activation='LeakyReLU',input_shape=(400,400,3)))
+model.add(Conv2D(filters=40,kernel_size=3,padding='same',activation='LeakyReLU'))
+model.add(MaxPool2D(pool_size=(4,4)))
+model.add(Conv2D(filters=40,kernel_size=3,padding='same',activation='LeakyReLU'))
+model.add(Conv2D(filters=30,kernel_size=3,padding='same',activation='LeakyReLU'))
+model.add(Conv2D(filters=20,kernel_size=3,padding='same',activation='LeakyReLU'))
+model.add(Conv2D(filters=10,kernel_size=3,padding='same',activation='LeakyReLU'))
+model.add(MaxPool2D(pool_size=(4,4)))
+model.add(Flatten())
+model.add(Dense(50,activation='LeakyReLU'))
+model.add(Dense(20,activation='LeakyReLU'))
+model.add(Dense(10,activation='LeakyReLU'))
+model.add(Dropout(0.5))
+model.add(Dense(3,activation='softmax'))
+```
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
