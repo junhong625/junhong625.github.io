@@ -91,7 +91,18 @@ model.add(Dense(20,activation='LeakyReLU'))
 model.add(Dense(10,activation='LeakyReLU'))
 model.add(Dropout(0.5))
 model.add(Dense(3,activation='softmax'))
+model.compile(optimizer='adam', 
+             loss='categorical_crossentropy',
+             metrics=['acc'])
+model.summary()
+
+history=model.fit(lst_im,lst_label,epochs=20,
+                 batch_size=64,
+                 validation_data=(x_val,y_val))
 ```
+
+> ***위의 코드로 학습을 진행했고 99%의 정확도를 가진 자세 분류 모델을 생성했습니다.***
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
