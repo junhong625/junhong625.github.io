@@ -22,7 +22,7 @@
   
 ***
 
- ***2. 메인화면***
+ *** 2. 메인화면 ***
 >자세 분석, 운동자세 학습, 로그아웃의 기능이 있습니다.
 <p align="left">
 <img src = "https://user-images.githubusercontent.com/83000975/150529056-0bfef46e-dc69-4156-bd9b-5e26bf8ccdb0.png" width="200" height="400" />
