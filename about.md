@@ -1,5 +1,5 @@
 ---
-layout: archive-taxonomies
+layout: archive-dates
 title: About
 type: about
 ---
