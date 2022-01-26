@@ -2,10 +2,10 @@
 title: Ahn JunHong
 description: A simple, beautiful, and powerful Jekyll theme for blogs
 url: https://junhong625.github.io
-avatar: /avatar.jpg
+avatar: avatar.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpg
+cover_image: bg.jpg
 
 # Gems
 plugins:
@@ -52,6 +52,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
+  name: Ahn JunHong
   url: https://github.com/vszhub/
   email: vszhub@gmail.com
