@@ -1,9 +1,11 @@
-- type: dates
-  title: Dates
-  url: /dates/
+- type: homepage
+  url: /
+- type: posts
+  title: Posts
+  url: /_posts/
 #- type: categories
 #  title: Categories
 #  url: /categories/
-- type: tags
-  title: Tags
-  url: /tags/
+- type: portfolio
+  title: Portfolio
+  url: /portfolio/
