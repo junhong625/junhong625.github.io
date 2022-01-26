@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive-taxonomies
 title: About
 type: about
 ---

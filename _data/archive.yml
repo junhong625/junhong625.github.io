@@ -13,3 +13,6 @@
 - type: portfolio
   title: Portfolio
   url: /portfolio/
+- type: algorithm
+  title: Algorithm
+  url: /algorithm/
