@@ -2,4 +2,14 @@ theme: jekyll-theme-minimal
 title: Junhong's record
 description: My portfolio
 name : "Ahn Junhong"
-url: "https://junhong625.github.io" 
+urls: 
+- text: About me
+  url: /about
+- text: Portfolio
+  url: /portfolio
+- text: Algorithm
+  url: /algorithm
+- blog: Blog
+  url: /blog
+
+
