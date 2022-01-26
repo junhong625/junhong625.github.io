@@ -1,6 +1,7 @@
 ---
 layout: archive-taxonomies
-permalink: /portfolio/
+permalink: /_portfolio/
 title: Portfolio
 type: portfolio
 ---
+[]

@@ -1,6 +1,5 @@
 ---
 layout: archive-taxonomies
-permalink: /about/
 title: About
 type: about
 ---
