@@ -1,5 +1,5 @@
 ---
-layout: archive-taxonomies
+layout: post
 permalink: /_posts/
 title: Posts
 type: posts
