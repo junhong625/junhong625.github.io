@@ -1,7 +1,11 @@
 ---
 layout : post
-title : "프로젝트 오일러 26번 문제 풀이"
-date : "2022-01-25 00:10:00 +0900"
+title : "[프로젝트 오일러] 26번 문제 풀이"
+categories: 
+  - Blog
+toc: true
+toc_sticky: true
+date : "2022-01-25"
 category: jeykll
 ---
 
