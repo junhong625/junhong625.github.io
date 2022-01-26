@@ -1,6 +1,6 @@
 ---
 layout: archive-taxonomies
-permalink: /algorithm/
+permalink: /_algorithm/
 title: Algorithm
 type: algorithm
 ---
