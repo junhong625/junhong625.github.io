@@ -3,16 +3,16 @@
   url: /
 - type: about
   title: About
-  url: /about/
+  url: /about.md
 - type: posts
   title: Posts
-  url: /posts/
+  url: /_posts/
 #- type: categories
 #  title: Categories
 #  url: /categories/
 - type: portfolio
   title: Portfolio
-  url: /portfolio/
+  url: /_portfolio/
 - type: algorithm
   title: Algorithm
-  url: /algorithm/
+  url: /_algorithm/
