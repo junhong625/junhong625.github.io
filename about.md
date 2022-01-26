@@ -1,6 +1,8 @@
 ---
-layout: page
-title: About Ahn JunHong
+layout: archive-taxonomies
+permalink: /aboutme/
+title: About
+type: about
 ---
 
 안녕하세요.
@@ -9,11 +11,12 @@ title: About Ahn JunHong
 > Contacts
 
 <p align='left'>
-<img src="https://user-images.githubusercontent.com/83000975/151145818-bd9e742f-bc50-4f1a-9e40-24dbd947409f.jpg">
+<img src="https://user-images.githubusercontent.com/83000975/151145818-bd9e742f-bc50-4f1a-9e40-24dbd947409f.jpg" height=20 weight=20>
 </p>
-[junhong625@gmail.com]("mailto://junhong625@gmail.com")
+[junhong625@gmail.com](mailto://junhong625@gmail.com)
 
 > Education
+
 Sejong University(2015-2021)
 
 > Languages
