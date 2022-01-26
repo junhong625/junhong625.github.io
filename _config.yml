@@ -2,10 +2,10 @@
 title: Ahn JunHong
 description: Hi, welcome
 url: https://junhong625.github.io
-avatar: <img src="https://user-images.githubusercontent.com/83000975/151135265-4817b237-4043-4bc9-877d-da9230392ab6.jpg">
+avatar: avatar.jpg
 paginate: 5
 permalink: pretty
-cover_image: <img src="https://user-images.githubusercontent.com/83000975/151135272-5b88abe3-a160-4c8b-a596-c4efb8435282.jpg">
+cover_image: bg.jpg
 
 # Gems
 plugins:
