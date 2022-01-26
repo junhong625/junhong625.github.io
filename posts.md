@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /_posts/
+permalink: /posts/
 title: Posts
 type: posts
 ---
