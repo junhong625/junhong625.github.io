@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: Introduce
 ---
 
-**Ahn Junhong** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+Hi, my name is **Ahn Junhong**.
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+
