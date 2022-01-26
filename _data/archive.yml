@@ -1,8 +1,12 @@
 - type: homepage
+  title: homepage.png
   url: /
+- type: about
+  title: About
+  url: /about/
 - type: posts
   title: Posts
-  url: /_posts/
+  url: /posts/
 #- type: categories
 #  title: Categories
 #  url: /categories/
