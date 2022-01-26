@@ -1,6 +1,6 @@
 ---
 layout: archive-taxonomies
-permalink: /aboutme/
+permalink: /about/
 title: About
 type: about
 ---
@@ -11,7 +11,7 @@ type: about
 > Contacts
 
 <p align='left'>
-<img src="https://user-images.githubusercontent.com/83000975/151145818-bd9e742f-bc50-4f1a-9e40-24dbd947409f.jpg" height=20 weight=20>
+<img src="https://user-images.githubusercontent.com/83000975/151145818-bd9e742f-bc50-4f1a-9e40-24dbd947409f.jpg">
 </p>
 [junhong625@gmail.com](mailto://junhong625@gmail.com)
 
