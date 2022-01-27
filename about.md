@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive-taxonomies
 title: About
 ---
 

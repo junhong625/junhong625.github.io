@@ -3,6 +3,7 @@ layout : post
 title : [프로젝트 오일러] 26번 문제 풀이
 date : 2022-01-25 01:00 +0800
 last_modified_at: 2022-01-27 18:00 +0800
+tags : [Algorithm]
 toc: true
 ---
 
