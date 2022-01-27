@@ -1,8 +1,8 @@
 ---
 layout : post
-title : [프로젝트 오일러] 26번 문제 풀이
+title : 프로젝트 오일러 26번 문제 풀이
 subtitle : Project euler
-gh-repo: daattali/beautiful-jekyll
+gh-repo: junhong625/Algorithm
 gh-badge: [star, fork, follow]
 tags : [Algorithm]
 comments: true
