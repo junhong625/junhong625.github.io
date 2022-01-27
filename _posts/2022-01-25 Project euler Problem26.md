@@ -1,11 +1,9 @@
 ---
 layout : post
-title : "[프로젝트 오일러] 26번 문제 풀이"
-categories: 
-  - Blog
+title : [프로젝트 오일러] 26번 문제 풀이
+date : 2022-01-25 01:00 +0800
+last_modified_at: 2022-01-27 18:00 +0800
 toc: true
-toc_sticky: true
-date : "2022-01-25"
 ---
 
 # 프로젝트 오일러 26번 문제 풀이

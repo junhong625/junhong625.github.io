@@ -1,7 +1,4 @@
 ---
-layout: page
-permalink: /posts/
-baseurl: /_posts/
+layout: post
 title: Posts
-type: posts
 ---

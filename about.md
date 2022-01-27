@@ -1,7 +1,6 @@
 ---
-layout: archive-taxonomies
+layout: page
 title: About
-type: about
 ---
 
 안녕하세요.
