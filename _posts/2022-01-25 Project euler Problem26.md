@@ -6,7 +6,6 @@ categories:
 toc: true
 toc_sticky: true
 date : "2022-01-25"
-category: jeykll
 ---
 
 # 프로젝트 오일러 26번 문제 풀이

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /posts/
 baseurl: /_posts/
 title: Posts
