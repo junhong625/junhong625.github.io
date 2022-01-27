@@ -1,5 +1,5 @@
 ---
-layout: archive-taxonomies
-permalink: /_portfolio/
+layout: archive-dates
+permalink: /portfolio/
 title: Portfolio
 ---

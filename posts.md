@@ -1,5 +1,5 @@
 ---
 layout: archive-dates
-path: /_posts/
+permalink: /posts/
 title: Posts
 ---

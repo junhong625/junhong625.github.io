@@ -12,7 +12,6 @@ title: About
 <img src="https://user-images.githubusercontent.com/83000975/151145818-bd9e742f-bc50-4f1a-9e40-24dbd947409f.jpg" weight=20 height=20>
 junhong625@gmail.com
 </p>
-[junhong625@gmail.com](mailto://junhong625@gmail.com)
 
 > Education
 
