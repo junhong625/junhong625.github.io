@@ -28,7 +28,7 @@
 ex) MySQL, MariaDB, MongoDB, SQLite 등
 
 ### DBMS의 종류
-DBMS에도 종류가 있는데 대표적으로 사용되는 DBMS는 **RDBMS(관계형 데이터베이스)**와 **NoSQL(비관계형 데이터베이스)**가 있습니다.
+DBMS에도 종류가 있는데 대표적으로 사용되는 DBMS는 **RDBMS(관계형 데이터베이스)** 와 **NoSQL(비관계형 데이터베이스)**가 있습니다.
 
    
 - **RDBMS(관계형 데이터베이스)**   
