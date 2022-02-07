@@ -1,3 +1,13 @@
+---
+layout : post
+title : 데이터베이스
+subtitle : Database study
+gh-repo: junhong625/A_FIT
+gh-badge: [star, fork, follow]
+tags : [study, DB]
+comments: true
+---
+
 # 데이터베이스
 
 현재 인류는 데이터 시대에 살고 있습니다. 이 데이터 세상에서 데이터를 관리하고 보관, 수정하는 것은 매우 중요한 일입니다. 
