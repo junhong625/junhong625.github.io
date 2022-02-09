@@ -9,7 +9,7 @@ subtitle:
 
 ### Profile  
 <div style="float: left; padding: 10px;">
-    <img src="https://user-images.githubusercontent.com/83000975/153178663-f5732bd8-0076-4296-b97e-a606141512d3.png" height=50 weight=50 style="margin-left:40px;">
+    <img src="https://user-images.githubusercontent.com/83000975/153178663-f5732bd8-0076-4296-b97e-a606141512d3.png" height=50 weight=50>
 </div>
 <div style="font-size:1.5em; float: left; width: 25%;">
 이름 <br> 안준홍
