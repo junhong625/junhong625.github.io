@@ -7,17 +7,17 @@ subtitle:
 안녕하세요. 
 소통하며 함께 성장하는 개발자 **안준홍**입니다.  
 
-### Profile  
+### Profile.  
 <div style="float: left; padding: 10px;">
     <img src="https://user-images.githubusercontent.com/83000975/153178663-f5732bd8-0076-4296-b97e-a606141512d3.png" height=50 weight=50>
 </div>
-<div style="font-size:1.5em; float: left; width: 25%;">
+<div style="font-size:1.5em; float: left; width: 20%;">
 이름 <br> 안준홍
 </div>
 <div style="float: left; padding: 10px;">
     <img src="https://user-images.githubusercontent.com/83000975/153178942-8d92fb14-5d4d-474e-b8a4-9fd660159269.jpg" height=50 weight=50>
 </div>
-<div style="font-size:1.5em; float: left; width: 25%;">
+<div style="font-size:1.5em; float: left; width: 20%;">
 생년월일 <br> 96.06.25
 </div>
 <div style="float: left; padding: 10px;">
