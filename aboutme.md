@@ -27,9 +27,7 @@ subtitle:
 주소지 <br> <sub>서울 동대문구</sub>
 </div>
 
-
-
-
+<br>
 ### Contact. 
 <p align="left">
 <img src="https://user-images.githubusercontent.com/83000975/151385532-30b1d006-6355-4eba-b074-b7f4a918e9d6.jpg" height=15 weight=15>
