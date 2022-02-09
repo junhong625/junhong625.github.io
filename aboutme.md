@@ -16,13 +16,13 @@ subtitle:
 이름 <br> <sub>안준홍</sub>
 </div>
 <div style="float: left; padding: 10px;">
-    <img src="https://user-images.githubusercontent.com/83000975/153178942-8d92fb14-5d4d-474e-b8a4-9fd660159269.jpg" height=50 weight=50>
+    <img src="https://user-images.githubusercontent.com/83000975/153190863-3566ca35-1643-4c4d-b99c-7deeeeca09cc.jpg" height=50 weight=50>
 </div>
 <div style="font: normal bold 1.5em/1em 'sans-serif'; float: left; width: 20%;">
 생년월일 <br> <sub>96.06.25</sub>
 </div>
 <div style="float: left; padding: 10px;">
-    <img src="https://user-images.githubusercontent.com/83000975/153180179-1314dcba-da79-4eff-b068-e4f4c884cce7.jpg" height=50 weight=50>
+    <img src="https://user-images.githubusercontent.com/83000975/153191121-7a8b20bf-2019-4ea9-8b82-7ad37e13c741.jpg" height=50 weight=50>
 </div>
 <div style="font: normal bold 1.5em/1em 'sans-serif'; float: left;">
 주소지 <br> <sub>서울 동대문구</sub>
