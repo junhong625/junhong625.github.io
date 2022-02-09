@@ -5,7 +5,17 @@ subtitle:
 ---
 
 안녕하세요. 
-지속적으로 성장하고 싶은 개발자 **안준홍**입니다.
+소통하며 함께 성장하는 개발자 **안준홍**입니다.  
+
+### Profile  
+<div class="name">
+<p align="left" style="font-size:20px;">
+<img src="https://user-images.githubusercontent.com/83000975/153146944-e9b70108-fe7a-4d94-a1da-deabb5c2c551.png" height=30 weight=30>
+이름</p>
+</div>
+<div>안준홍</div>
+
+
 
 ### Contact. 
 <p align="left">
