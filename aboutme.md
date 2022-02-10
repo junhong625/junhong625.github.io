@@ -17,13 +17,13 @@ subtitle:
 <div style="float: left; padding: 10px;">
     <img src="https://user-images.githubusercontent.com/83000975/153437869-0da80e9c-e935-418e-8e62-b9b36869980a.png" height=30 weight=30>
 </div>
-<div style="font: normal bold 1.1em/1em 'sans-serif'; float: left; width: 200px;">
+<div style="font: normal bold 1.1em/1em 'sans-serif'; float: left; width: 180px;">
 이름 <br> <sub>안준홍</sub>
 </div>
 <div style="float: left; padding: 10px;">
     <img src="https://user-images.githubusercontent.com/83000975/153437871-1d7331fe-6613-467c-a9c1-2ef092fc3848.jpg" height=30 weight=30>
 </div>
-<div style="font: normal bold 1.1em/1em 'sans-serif'; float: left; width: 200px;">
+<div style="font: normal bold 1.1em/1em 'sans-serif'; float: left; width: 180px;">
 생년월일 <br> <sub>96.06.25</sub>
 </div>
 <div style="float: left; padding: 10px;">
@@ -40,14 +40,14 @@ subtitle:
 <div style="float: left; padding: 10px;">
 <img src="https://user-images.githubusercontent.com/83000975/153437874-2c6ab39b-2e0b-41e8-aa39-5c8117622430.png" height=30 weight=30>
 </div>
-<div style="font: normal bold 1.1em/1em 'sans-serif'; float: left; width: 200px;">
+<div style="font: normal bold 1.1em/1em 'sans-serif'; float: left; width: 180px;">
 Tel. <br><sub>010-9972-3173</sub>
 </div>
 
 <div style="float: left; padding: 10px;">
 <img src="https://user-images.githubusercontent.com/83000975/153439370-563972e4-8f2e-4c18-b96c-ab68029fcf90.jpg" height=30 weight=30>
 </div>
-<div style="font: normal bold 1.1em/1em 'sans-serif'; float: left; width: 200px;">
+<div style="font: normal bold 1.1em/1em 'sans-serif'; float: left; width: 180px;">
 <a href="mailto:junhong625@gmail.com">
 Email. <br><sub>junhong625@gmail.com</sub>
 </a>
