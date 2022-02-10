@@ -4,10 +4,10 @@ title: About me
 subtitle: 
 ---
 (인사말 폰트 수정하고 연락처 및 이메일 수정, 학력추가)
-<div style="font: normal bold 1.2em/1em 'sans-serif'; float: left; width: 20%;">
+<div style="font: normal bold 1.2em/1em 'sans-serif'; float: center; width: 20%;">
 안녕하세요. 
 <br>
-<span style="color:blue">소통</span>하며 함께 <span style="color:red">성장</span>하는 개발자 <big>안준홍</big>입니다. 
+<span style="color:blue; float:center;">소통</span>하며 함께 <span style="color:red; float:center;">성장</span>하는 개발자 <span style="font-size:1.3em; float:center;">안준홍</span>입니다. 
 </div>
 
 <br>
