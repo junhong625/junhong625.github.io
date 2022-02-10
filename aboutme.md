@@ -3,34 +3,39 @@ layout: page
 title: About me
 subtitle: 
 ---
-
+(인사말 폰트 수정하고 연락처 및 이메일 수정, 학력추가)
+<div style="font: normal bold 1.2em/1em 'sans-serif'; float: left; width: 20%;">
 안녕하세요. 
-소통하며 함께 성장하는 개발자 **안준홍**입니다.  
+<br>
+<span style="color:blue">소통</span>하며 함께 <span style="color:red">성장</span>하는 개발자 <big>안준홍</big>입니다. 
+</div>
 
-### Profile.
+<br>
+
+## Profile.
   
 <div style="float: left; padding: 10px;">
     <img src="https://user-images.githubusercontent.com/83000975/153178663-f5732bd8-0076-4296-b97e-a606141512d3.png" height=40 weight=40>
 </div>
-<div style="font: normal bold 1.5em/1em 'sans-serif'; float: left; width: 20%;">
+<div style="font: normal bold 1.2em/1em 'sans-serif'; float: left; width: 20%;">
 이름 <br> <sub>안준홍</sub>
 </div>
 <div style="float: left; padding: 10px;">
     <img src="https://user-images.githubusercontent.com/83000975/153190863-3566ca35-1643-4c4d-b99c-7deeeeca09cc.jpg" height=40 weight=40>
 </div>
-<div style="font: normal bold 1.5em/1em 'sans-serif'; float: left; width: 20%;">
+<div style="font: normal bold 1.2em/1em 'sans-serif'; float: left; width: 20%;">
 생년월일 <br> <sub>96.06.25</sub>
 </div>
 <div style="float: left; padding: 10px;">
     <img src="https://user-images.githubusercontent.com/83000975/153191121-7a8b20bf-2019-4ea9-8b82-7ad37e13c741.jpg" height=40 weight=40>
 </div>
-<div style="font: normal bold 1.5em/1em 'sans-serif'; float: left;">
+<div style="font: normal bold 1.2em/1em 'sans-serif'; float: left;">
 주소지 <br> <sub>서울 동대문구</sub>
 </div>
 
 <br>
 
-### Contact.  
+## Contact.  
 
 <div style="font: normal bold 1.5em/1em 'sans-serif'; padding: 10px;">
 <img src="https://user-images.githubusercontent.com/83000975/151385532-30b1d006-6355-4eba-b074-b7f4a918e9d6.jpg" height=15 weight=15>
