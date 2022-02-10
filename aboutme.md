@@ -7,7 +7,7 @@ subtitle:
 <div style="font: normal bold 1.2em/1em 'sans-serif'; text-align:center;">
 안녕하세요. 
 <br>
-<span style="color:blue; float:center; text-size:1.25em;">소통</span>하며 함께 <span style="color:red; float:center; text-size:1.25em;">성장</span>하는 개발자 <span style="font-size:1.3em; float:center;">안준홍</span>입니다. 
+<span style="color:green; float:center; text-size:1.25em;">소통</span>하며 함께 <span style="color:red; float:center; text-size:1.25em;">성장</span>하는 개발자 <span style="font-size:1.3em; float:center;">안준홍</span>입니다. 
 </div>
 
 <br>
@@ -38,7 +38,7 @@ subtitle:
 ## Contact.  
 
 <div style="float: left; padding: 10px;">
-<img src="https://user-images.githubusercontent.com/83000975/151389193-fd06a3ed-1d0f-48fc-bfb1-d18e5a907dd1.jpg" height=30 weight=30>
+<img src="https://user-images.githubusercontent.com/83000975/153432019-7ee7cfb4-cadd-40d4-b817-81ffb7819e06.png" height=30 weight=30>
 </div>
 <div style="font: normal bold 1.2em/1em 'sans-serif'; float: left; width: 30%;">
 Tel. <br><sub>010-9972-3173</sub>
@@ -56,7 +56,7 @@ Email. <br><sub>junhong625@gmail.com</sub>
 <div style="float: left; padding: 10px;">
 <img src="https://user-images.githubusercontent.com/83000975/151389483-da632667-6a6e-46dd-9d23-a18073c754cd.jpg" height=30 weight=30>
 </div>
-<div style="font: normal bold 1.2em/1em 'sans-serif'; float: left; width: 20%;">
+<div style="font: normal bold 1.2em/1em 'sans-serif'; float: left;">
 <a href="https://github.com/junhong625/">
 Address. <br><sub>https://github.com/junhong625/</sub>
 </a>
