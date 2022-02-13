@@ -61,3 +61,14 @@ Email. <br><sub>junhong625@gmail.com</sub>
 Address. <br><sub>https://github.com/junhong625/</sub>
 </a>
 </div>
+
+<br>
+
+## Graduate.
+
+<div style="float: left; padding: 10px;">
+<img src="https://user-images.githubusercontent.com/83000975/153754969-61e641fa-c457-4569-95d8-3c04adbfbd1b.png" height=30 weight=30>
+</div>
+<div style="font: normal bold 1em/1em 'sans-serif'; float: left;">
+<sub> 2015.03 ~ 2021.08</sub>  서울 세종대학교(체육학과) 졸업 <br><sub> 2021.07 ~ 2022.01</sub>  강남 비트교육센터(빅데이터 분석을 활용한 예측&인공지능(AI) 모델링) 수료
+</div>
