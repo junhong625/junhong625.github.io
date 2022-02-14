@@ -72,3 +72,5 @@ Address. <br><sub>https://github.com/junhong625/</sub>
 <div style="font: normal bold 1em/1em 'sans-serif'; float: left;">
 <sub>2015.03 ~ 2021.08 | 서울 세종대학교(체육학과) 졸업</sub> <br><sub>2021.07 ~ 2022.01 | 강남 비트교육센터(빅데이터 분석을 활용한 예측&인공지능(AI) 모델링) 수료</sub>
 </div>
+
+## Skills.
