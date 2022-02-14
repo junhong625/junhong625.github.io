@@ -74,3 +74,5 @@ Address. <br><sub>https://github.com/junhong625/</sub>
 </div>
 
 ## Skills.
+
+<div style="float: left; padding: 10px;">
