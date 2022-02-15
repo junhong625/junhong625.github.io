@@ -13,7 +13,6 @@ layout: page
 <p style="font: normal bold 2em/1em 'sans-serif'; text-align:left;">
 <u>Profile</u>
 </p>
-<br>
   
 <div style="float: left; padding: 10px;">
     <img src="https://user-images.githubusercontent.com/83000975/153437869-0da80e9c-e935-418e-8e62-b9b36869980a.png" height=30 weight=30>
@@ -40,7 +39,6 @@ layout: page
 <p style="font: normal bold 2em/1em 'sans-serif'; text-align:left;">
 <u>Contact</u>
 </p>
-<br>
 
 <div style="float: left; padding: 10px;">
 <img src="https://user-images.githubusercontent.com/83000975/153437874-2c6ab39b-2e0b-41e8-aa39-5c8117622430.png" height=30 weight=30>
@@ -73,7 +71,6 @@ Address. <br><sub>https://github.com/junhong625/</sub>
 <p style="font: normal bold 2em/1em 'sans-serif'; text-align:left;">
 <u>Graduate</u>
 </p>
-<br>
 
 <div style="float: left; padding: 10px;">
 <img src="https://user-images.githubusercontent.com/83000975/153754969-61e641fa-c457-4569-95d8-3c04adbfbd1b.png" height=30 weight=30>
@@ -88,7 +85,6 @@ Address. <br><sub>https://github.com/junhong625/</sub>
 <p style="font: normal bold 2em/1em 'sans-serif'; text-align:left;">
 <u>Skills</u>
 </p>
-<br>
 
 <div style="float: left; padding: 20px; border:30px; height:300px; width:400px; background-color: gray; border-radius: 20px;">
 </div>
