@@ -12,7 +12,7 @@ subtitle:
 <br>
 <br>
 
-<p style="font: normal bold 2em/1em 'sans-serif'; text-align:center;">
+<p style="float:left; font: normal bold 2em/1em 'sans-serif'; text-align:center;">
 <u>Profile</u>
 </p>
 <br>
@@ -39,7 +39,7 @@ subtitle:
 <br>
 <br>
 
-<p style="font: normal bold 2em/1em 'sans-serif'; text-align:center;">
+<p style="float:left; font: normal bold 2em/1em 'sans-serif'; text-align:center;">
 <u>Contact</u>
 </p>
 <br>
@@ -72,7 +72,7 @@ Address. <br><sub>https://github.com/junhong625/</sub>
 <br>
 <br>
 
-<p style="font: normal bold 2em/1em 'sans-serif'; text-align:center;">
+<p style="float:left; font: normal bold 2em/1em 'sans-serif'; text-align:center;">
 <u>Graduate</u>
 </p>
 <br>
@@ -87,7 +87,7 @@ Address. <br><sub>https://github.com/junhong625/</sub>
 <br>
 <br>
 
-<p style="font: normal bold 2em/1em 'sans-serif'; text-align:center;">
+<p style="float:left; font: normal bold 2em/1em 'sans-serif'; text-align:center;">
 <u>Skills</u>
 </p>
 <br>
