@@ -12,7 +12,6 @@ layout: page
 <span style="color:CornflowerBlue; float:center; font: normal bold 2em/2em 'sans-serif';">소통</span>하며 함께 <span style="color:LightCoral; float:center; font: normal bold 2em/2em 'sans-serif';;">성장</span>하는 개발자 <span style="font: normal bold 2em/2em 'sans-serif'; float:center;">
 <br>『 안준홍 』</span>입니다. 
 </div>
-<hr color="gray" size="10">
 <br>
 
 <p style="font: normal bold 2em/1em 'sans-serif'; text-align:left; text-decoration: underline; text-underline-position:under;">
