@@ -3,13 +3,13 @@ layout: page
 title: About me
 subtitle: 
 ---
-(인사말 폰트 수정하고 연락처 및 이메일 수정, 학력추가)
 <div style="font: normal bold 1.2em/1em 'sans-serif'; text-align:center;">
 안녕하세요. 
 <br>
 <span style="color:CornflowerBlue; float:center; text-size:1.25em;">소통</span>하며 함께 <span style="color:LightCoral; float:center; text-size:1.25em;">성장</span>하는 개발자 <span style="font-size:1.3em; float:center;">『 안준홍 』</span>입니다. 
 </div>
 
+<br>
 <br>
 
 ## Profile.
@@ -33,6 +33,7 @@ subtitle:
 주소지 <br> <sub>서울 동대문구</sub>
 </div>
 
+<br>
 <br>
 
 ## Contact.  
@@ -62,6 +63,7 @@ Address. <br><sub>https://github.com/junhong625/</sub>
 </a>
 </div>
 
+<br>
 <br>
 
 ## Graduate.
