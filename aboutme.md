@@ -10,7 +10,7 @@ layout: page
 <br>
 <br>
 
-<p style="float:left; font: normal bold 2em/1em 'sans-serif'; text-align:center;">
+<p style="font: normal bold 2em/1em 'sans-serif'; text-align:left;">
 <u>Profile</u>
 </p>
 <br>
@@ -37,7 +37,7 @@ layout: page
 <br>
 <br>
 
-<p style="float:left; font: normal bold 2em/1em 'sans-serif'; text-align:center;">
+<p style="font: normal bold 2em/1em 'sans-serif'; text-align:left;">
 <u>Contact</u>
 </p>
 <br>
@@ -70,7 +70,7 @@ Address. <br><sub>https://github.com/junhong625/</sub>
 <br>
 <br>
 
-<p style="float:left; font: normal bold 2em/1em 'sans-serif'; text-align:center;">
+<p style="font: normal bold 2em/1em 'sans-serif'; text-align:left;">
 <u>Graduate</u>
 </p>
 <br>
@@ -85,7 +85,7 @@ Address. <br><sub>https://github.com/junhong625/</sub>
 <br>
 <br>
 
-<p style="float:left; font: normal bold 2em/1em 'sans-serif'; text-align:center;">
+<p style="font: normal bold 2em/1em 'sans-serif'; text-align:left;">
 <u>Skills</u>
 </p>
 <br>
