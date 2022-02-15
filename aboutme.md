@@ -2,7 +2,7 @@
 layout: page
 ---
 <style type="text/css">
-.box{float: left; padding-top: 5px; padding-bottom: 5px; padding-left: 15px; padding-right: 15px; border:3px solid black; border-radius:15px}
+.box{float: left; padding-top: 5px; padding-bottom: 5px; padding-left: 8px; padding-right: 8px; border:3px solid black; border-radius:15px}
 </style>
 <br>
 <div style="font: normal bold 1.2em/1.2em 'sans-serif'; text-align:center;">
