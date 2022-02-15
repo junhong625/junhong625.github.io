@@ -15,7 +15,7 @@ layout: page
 <br>
 
 <p style="font: normal bold 2em/1em 'sans-serif'; text-align:left; text-decoration: underline; text-underline-position:under;">
-Profile
+Profile.
 </p>
 
 <div class="box">
@@ -41,7 +41,7 @@ Profile
 <br>
 
 <p style="font: normal bold 2em/1em 'sans-serif'; text-align:left; text-decoration: underline; text-underline-position:under;">
-Contact
+Contact.
 </p>
 
 <div class="box">
@@ -59,7 +59,7 @@ Tel. <br><sub>010-9972-3173</sub>
 Email. <br><sub>junhong625@gmail.com</sub>
 </a>
 </div>
-
+<!--
 <div class="box">
 <img src="https://user-images.githubusercontent.com/83000975/153437867-846e0d81-5823-4999-ad16-811114ac7322.jpg" height=30 weight=30>
 </div>
@@ -68,12 +68,13 @@ Email. <br><sub>junhong625@gmail.com</sub>
 Address. <br><sub>https://github.com/junhong625/</sub>
 </a>
 </div>
+-->
 
 <br>
 <br>
 
 <p style="font: normal bold 2em/1em 'sans-serif'; text-align:left; text-decoration: underline; text-underline-position:under;">
-Graduate
+Graduate.
 </p>
 
 <div class="box">
@@ -87,7 +88,7 @@ Graduate
 <br>
 
 <p style="font: normal bold 2em/1em 'sans-serif'; text-align:left; text-decoration: underline; text-underline-position:under;">
-Skills
+Skills.
 </p>
 
 <div style="float: left; padding: 20px; border:1px solid gray; height:300px; width:400px; border-radius: 20px;">
