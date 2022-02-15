@@ -1,13 +1,13 @@
 ---
 layout: page
 ---
+<br>
 <div style="font: normal bold 1.2em/1em 'sans-serif'; text-align:center;">
 안녕하세요. 
 <br>
 <span style="color:CornflowerBlue; float:center; text-size:1.25em;">소통</span>하며 함께 <span style="color:LightCoral; float:center; text-size:1.25em;">성장</span>하는 개발자 <span style="font-size:1.3em; float:center;">『 안준홍 』</span>입니다. 
 </div>
 
-<br>
 <br>
 
 <p style="font: normal bold 2em/1em 'sans-serif'; text-align:left;">
