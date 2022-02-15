@@ -6,10 +6,10 @@ layout: page
 .text{font: normal bold 1em/1em 'sans-serif'; float: left; padding-left:10px; padding-top:6px}
 </style>
 <br>
-<div style="font: normal bold 1.2em/1.2em 'sans-serif'; text-align:center;">
+<div style="font: normal bold 2em/2em 'sans-serif'; text-align:center;">
 안녕하세요. 
 <br>
-<span style="color:CornflowerBlue; float:center; text-size:2em;">소통</span>하며 함께 <span style="color:LightCoral; float:center; text-size:2em;">성장</span>하는 개발자 <span style="font-size:2.1em; float:center;">『 안준홍 』</span>입니다. 
+<span style="color:CornflowerBlue; float:center; font: normal bold 2em/2em 'sans-serif';">소통</span>하며 함께 <span style="color:LightCoral; float:center; font: normal bold 2em/2em 'sans-serif';">성장</span>하는 개발자 <span style="font: normal bold 2em/2em 'sans-serif'; float:center;">『 안준홍 』</span>입니다. 
 </div>
 
 <br>
