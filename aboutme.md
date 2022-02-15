@@ -1,6 +1,9 @@
 ---
 layout: page
 ---
+<style type="text/css">
+.box{float: left; padding-top: 5px; padding-bottom: 5px; padding-left: 15px; padding-right: 15px; border:3px solid black; border-radius:15px}
+</style>
 <br>
 <div style="font: normal bold 1.2em/1.2em 'sans-serif'; text-align:center;">
 안녕하세요. 
@@ -14,19 +17,19 @@ layout: page
 Profile
 </p>
 
-<div style="float: left; padding-top: 5px; padding-right: 20px">
+<div class="box">
     <img src="https://user-images.githubusercontent.com/83000975/153437869-0da80e9c-e935-418e-8e62-b9b36869980a.png" height=30 weight=30>
 </div>
 <div style="font: normal bold 1em/1em 'sans-serif'; float: left; width: 180px;">
 이름 <br> <sub>안준홍</sub>
 </div>
-<div style="float: left; padding-top: 5px; padding-right: 20px">
+<div class="box">
     <img src="https://user-images.githubusercontent.com/83000975/153437871-1d7331fe-6613-467c-a9c1-2ef092fc3848.jpg" height=30 weight=30>
 </div>
 <div style="font: normal bold 1em/1em 'sans-serif'; float: left; width: 180px;">
 생년월일 <br> <sub>96.06.25</sub>
 </div>
-<div style="float: left; padding-top: 5px; padding-right: 20px">
+<div class="box">
     <img src="https://user-images.githubusercontent.com/83000975/153437873-509a68c4-1b8b-4db3-86f6-2fcce08a6bb1.jpg" height=30 weight=30>
 </div>
 <div style="font: normal bold 1em/1em 'sans-serif'; float: left;">
@@ -40,14 +43,14 @@ Profile
 Contact
 </p>
 
-<div style="float: left; padding-top: 5px; padding-right: 20px">
+<div class="box">
 <img src="https://user-images.githubusercontent.com/83000975/153437874-2c6ab39b-2e0b-41e8-aa39-5c8117622430.png" height=30 weight=30>
 </div>
 <div style="font: normal bold 1em/1em 'sans-serif'; float: left; width: 180px;">
 Tel. <br><sub>010-9972-3173</sub>
 </div>
 
-<div style="float: left; padding-top: 5px; padding-right: 20px">
+<div class="box">
 <img src="https://user-images.githubusercontent.com/83000975/153439370-563972e4-8f2e-4c18-b96c-ab68029fcf90.jpg" height=30 weight=30>
 </div>
 <div style="font: normal bold 1em/1em 'sans-serif'; float: left; width: 180px;">
@@ -56,7 +59,7 @@ Email. <br><sub>junhong625@gmail.com</sub>
 </a>
 </div>
 
-<div style="float: left; padding-top: 5px; padding-right: 20px">
+<div class="box">
 <img src="https://user-images.githubusercontent.com/83000975/153437867-846e0d81-5823-4999-ad16-811114ac7322.jpg" height=30 weight=30>
 </div>
 <div style="font: normal bold 1em/1em 'sans-serif'; float: left;">
@@ -72,7 +75,7 @@ Address. <br><sub>https://github.com/junhong625/</sub>
 Graduate
 </p>
 
-<div style="float: left; padding-top: 5px; padding-right: 20px">
+<div class="box">
 <img src="https://user-images.githubusercontent.com/83000975/153754969-61e641fa-c457-4569-95d8-3c04adbfbd1b.png" height=30 weight=30>
 </div>
 <div style="font: normal bold 1em/1em 'sans-serif'; float: left;">
@@ -86,5 +89,5 @@ Graduate
 Skills
 </p>
 
-<div style="float: left; padding: 20px; border:1px solid gray; height:300px; width:400px; background-color: gray; border-radius: 20px;">
+<div style="float: left; padding: 20px; border:1px solid gray; height:300px; width:400px; border-radius: 20px;">
 </div>
