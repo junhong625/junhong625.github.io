@@ -1,7 +1,5 @@
 ---
 layout: page
-title: About me
-subtitle: 
 ---
 <div style="font: normal bold 1.2em/1em 'sans-serif'; text-align:center;">
 안녕하세요. 
