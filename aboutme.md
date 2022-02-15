@@ -12,7 +12,10 @@ subtitle:
 <br>
 <br>
 
-## Profile.
+<p style="font: normal bold 2em/1em 'sans-serif'; text-align:center;">
+<u>Profile</u>
+</p>
+<br>
   
 <div style="float: left; padding: 10px;">
     <img src="https://user-images.githubusercontent.com/83000975/153437869-0da80e9c-e935-418e-8e62-b9b36869980a.png" height=30 weight=30>
@@ -36,7 +39,10 @@ subtitle:
 <br>
 <br>
 
-## Contact.  
+<p style="font: normal bold 2em/1em 'sans-serif'; text-align:center;">
+<u>Contact</u>
+</p>
+<br>
 
 <div style="float: left; padding: 10px;">
 <img src="https://user-images.githubusercontent.com/83000975/153437874-2c6ab39b-2e0b-41e8-aa39-5c8117622430.png" height=30 weight=30>
@@ -66,7 +72,10 @@ Address. <br><sub>https://github.com/junhong625/</sub>
 <br>
 <br>
 
-## Graduate.
+<p style="font: normal bold 2em/1em 'sans-serif'; text-align:center;">
+<u>Graduate</u>
+</p>
+<br>
 
 <div style="float: left; padding: 10px;">
 <img src="https://user-images.githubusercontent.com/83000975/153754969-61e641fa-c457-4569-95d8-3c04adbfbd1b.png" height=30 weight=30>
@@ -75,6 +84,13 @@ Address. <br><sub>https://github.com/junhong625/</sub>
 <sub>2015.03 ~ 2021.08 | 서울 세종대학교(체육학과) 졸업</sub> <br><sub>2021.07 ~ 2022.01 | 강남 비트교육센터(빅데이터 분석을 활용한 예측&인공지능(AI) 모델링) 수료</sub>
 </div>
 
-## Skills.
+<br>
+<br>
 
-<div style="float: left; padding: 10px;">
+<p style="font: normal bold 2em/1em 'sans-serif'; text-align:center;">
+<u>Skills</u>
+</p>
+<br>
+
+<div style="float: left; padding: 20px; border:30px; height:300px; width:400px; background-color: gray; border-radius: 20px;">
+</div>
