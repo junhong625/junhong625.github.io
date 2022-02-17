@@ -6,7 +6,7 @@ layout: page
 .text{font: normal bold 1em/1em 'sans-serif'; float: left; padding-left:10px; padding-top:6px}
 </style>
 <br>
-<div style="background-color: lightgray">
+<div style="background-color: Gainsboro; border-radius:50px; border:5px solid darkgray;">
 <div style="font: normal bold 2em/2em 'sans-serif'; text-align:center;">
 안녕하세요. 
 <br>
