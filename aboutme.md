@@ -100,4 +100,5 @@ Skills.
 </p>
 
 <div style="float: left; padding: 20px; border:1px solid gray; height:300px; width:400px; border-radius: 20px;">
+Python, Pandas, Matplotlib, Numpy, Tensorflow, AWS EC2
 </div>
