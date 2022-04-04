@@ -7,8 +7,7 @@ gh-badge: [star, fork, follow]
 tags : [Python]
 comments: true
 ---
-startswith, endswith는 [Programmers[전화번호 목록]](https://junhong625.github.io/2022-04-04-Programmers-%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D/)]문제를 풀고나서 다른 사람들의 풀이를 보며 공부하다 알게 된 함수인데  
-아주 유용하게 사용할 수 있을 것 같아 공부하고 해당 내용을 기록하기 위해 한 포스팅입니다.
+startswith, endswith는 [Programmers[전화번호 목록]](https://junhong625.github.io/2022-04-04-Programmers-%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D/)문제를 풀고나서 다른 사람들의 풀이를 보며 공부하다 알게 된 함수로 유용하게 사용할 수 있을 것 같아 공부하고 해당 내용을 기록하기 위해 한 포스팅입니다.
 
 * * *
 startswith, endswith는 호출하지 않아도 되며 사용하기 쉽고 접두어 관련한 문제에 간편하게 사용할 수 있는 함수입니다.
