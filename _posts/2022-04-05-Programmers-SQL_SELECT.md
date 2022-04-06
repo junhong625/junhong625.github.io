@@ -1,6 +1,6 @@
 ---
 layout : post
-title : Programmers[SQL] SELECT 문제
+title : Programmers[SQL] SELECT
 subtitle : SQL 고득점 Kit
 gh-repo: junhong625/SQL
 gh-badge: [star, fork, follow]
