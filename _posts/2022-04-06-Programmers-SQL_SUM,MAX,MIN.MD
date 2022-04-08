@@ -10,6 +10,8 @@ comments: true
 # Programmers SQL 고득점 Kit
 
 ## SUM, MAX, MIN 문제
+<br>
+
 ### 1. 최댓값 구하기
 **문제 풀이**
 > `가장 최근에 들어온 동물은 언제 들어왔는지 조회`하는 SQL 문을 작성해주세요.
@@ -22,6 +24,7 @@ SELECT DATETIME AS "시간" FROM ANIMAL_INS
 ORDER BY DATETIME DESC 
 LIMIT 1;
 ```
+<br>
 
 ### 2. 최솟값 구하기
 **문제 풀이**
@@ -31,10 +34,12 @@ LIMIT 1;
 
 **정답**
 ```
-SELECT DATETIME AS "시간" FROM ANIMAL_INS 
+SELECT DATETIME AS "시간" 
+FROM ANIMAL_INS 
 ORDER BY DATETIME ASC 
 LIMIT 1;
 ```
+<br>
 
 ### 3. 동물 수 구하기
 **문제 풀이**
@@ -44,8 +49,10 @@ LIMIT 1;
 
 **정답**
 ```
-SELECT COUNT(*) FROM ANIMAL_INS;
+SELECT COUNT(*) 
+FROM ANIMAL_INS;
 ```
+<br>
 
 ### 4. 중복 제거하기
 **문제 풀이**
@@ -57,6 +64,7 @@ SELECT COUNT(*) FROM ANIMAL_INS;
 
 **정답**
 ```
-SELECT COUNT(DISTINCT NAME) FROM ANIMAL_INS 
+SELECT COUNT(DISTINCT NAME) 
+FROM ANIMAL_INS 
 WHERE NAME IS NOT NULL;
 ```

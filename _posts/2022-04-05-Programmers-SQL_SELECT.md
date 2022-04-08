@@ -10,6 +10,8 @@ comments: true
 # Programmers SQL 고득점 Kit
 
 ## SELECT 문제
+<br>
+
 ### 1. 모든 레코드 조회하기
 **문제 풀이**
 > 동물 보호소에 들어온 `모든 동물의 정보`를 `ANIMAL_ID순으로 조회`하는 SQL문을 작성해주세요. 
@@ -19,9 +21,11 @@ comments: true
 
 **정답**
 ```
-SELECT * FROM ANIMAL_INS 
+SELECT * 
+FROM ANIMAL_INS 
 ORDER BY ANIMAL_ID ASC;
 ```
+<br>
 
 ### 2. 역순 정렬하기
 **문제 풀이**
@@ -32,9 +36,11 @@ ORDER BY ANIMAL_ID ASC;
 
 **정답**
 ```
-SELECT NAME, DATETIME FROM ANIMAL_INS
+SELECT NAME, DATETIME 
+FROM ANIMAL_INS
 ORDER BY ANIMAL_ID DESC;
 ```
+<br>
 
 ### 3. 아픈 동물 찾기
 **문제 풀이**
@@ -45,10 +51,12 @@ ORDER BY ANIMAL_ID DESC;
 
 **정답**
 ```
-SELECT ANIMAL_ID, NAME FROM ANIMAL_INS
+SELECT ANIMAL_ID, NAME 
+FROM ANIMAL_INS
 WHERE INTAKE_CONDITION = "Sick" 
 ORDER BY ANIMAL_ID ASC;
 ```
+<br>
 
 ### 4. 어린 동물 찾기
 **문제 풀이**
@@ -59,10 +67,12 @@ ORDER BY ANIMAL_ID ASC;
 
 **정답**
 ```
-SELECT ANIMAL_ID, NAME FROM ANIMAL_INS
+SELECT ANIMAL_ID, NAME 
+FROM ANIMAL_INS
 WHERE INTAKE_CONDITION != "Aged"
 ORDER BY ANIMAL_ID ASC;
 ```
+<br>
 
 ### 5. 동물의 아이디와 이름
 **문제 풀이**
@@ -73,9 +83,11 @@ ORDER BY ANIMAL_ID ASC;
 
 **정답**
 ```
-SELECT ANIMAL_ID, NAME FROM ANIMAL_INS
+SELECT ANIMAL_ID, NAME 
+FROM ANIMAL_INS
 ORDER BY ANIMAL_ID ASC;
 ```
+<br>
 
 ### 6. 여러 기준으로 정렬하기
 **문제 풀이**
@@ -87,9 +99,11 @@ ORDER BY ANIMAL_ID ASC;
 
 **정답**
 ```
-SELECT ANIMAL_ID, NAME, DATETIME FROM ANIMAL_INS
+SELECT ANIMAL_ID, NAME, DATETIME 
+FROM ANIMAL_INS
 ORDER BY NAME ASC, DATETIME DESC;
 ```
+<br>
 
 ### 7. 상위 n개 레코드
 **문제 풀이**
@@ -99,7 +113,8 @@ ORDER BY NAME ASC, DATETIME DESC;
 
 **정답**
 ```
-SELECT NAME FROM ANIMAL_INS
+SELECT NAME 
+FROM ANIMAL_INS
 ORDER BY DATETIME ASC
 LIMIT 1;
 ```
