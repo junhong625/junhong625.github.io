@@ -87,3 +87,8 @@ def solution(participant, completion):
         answer = p[len(p)-1]
     return answer
 ```
+
+<br>
+
+아직 갈길이 멀지만 Level 1을 통과했다니 조금 뿌듯한 마음이 듭니다. 
+**이에 만족하지 않고 계속 공부하여 Level 2, 3, 4까지 얼른 나아가자!!!**
