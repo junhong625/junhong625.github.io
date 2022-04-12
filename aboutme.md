@@ -52,7 +52,7 @@ Profile.
 Email. <br><sub>junhong625@gmail.com</sub>
 </a>
 </div>
-<!--
+
 <div class="box">
 <img src="https://user-images.githubusercontent.com/83000975/153437867-846e0d81-5823-4999-ad16-811114ac7322.jpg" height=30 weight=30>
 </div>
@@ -61,7 +61,6 @@ Email. <br><sub>junhong625@gmail.com</sub>
 Address. <br><sub>https://github.com/junhong625/</sub>
 </a>
 </div>
--->
 
 <br>
 <br>
@@ -76,7 +75,7 @@ Graduate.
 <img src="https://user-images.githubusercontent.com/83000975/153754969-61e641fa-c457-4569-95d8-3c04adbfbd1b.png" height=30 weight=30>
 </div>
 <div class="text">
-<sub>2015.03 ~ 2021.08 | 서울 세종대학교(체육학과) 졸업</sub> <br><sub>2021.07 ~ 2022.01 | 강남 비트교육센터(빅데이터 분석을 활용한 예측&인공지능(AI) 모델링) 수료</sub>
+<sub>2015.03 ~ 2021.08  |  서울 세종대학교(체육학과) 졸업</sub> <br><sub>2021.07 ~ 2022.01  |  강남 비트교육센터(빅데이터 분석을 활용한 예측&인공지능(AI) 모델링) 수료</sub>
 </div>
 
 <br>
@@ -90,10 +89,10 @@ Skills.
 
 <div style="float: left; padding: 20px; border:1px solid gray; height:300px; width:400px; border-radius: 20px;">
 <p class="text">
-OS : Windows, Mac, Ubuntu
-Language : Python, Java
-DB : MySQL
-Collaboration Tool : Slack, Google Drive, Github
+OS : Windows, Mac, Ubuntu  
+Language : Python, Java  
+DB : MySQL  
+Collaboration Tool : Slack, Google Drive, Github  
 DEV Tool : Jupyter Notebook, Pycharm, MySQL Workbench, AWS EC2, AWS RDS
 </p>
 </div>
