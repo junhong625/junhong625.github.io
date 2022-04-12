@@ -3,7 +3,7 @@ layout: page
 ---
 <style type="text/css">
 .box{float: left; padding-top: 5px; padding-bottom: 5px; padding-left: 8px; padding-right: 8px; border-radius:15px}
-.text{font: normal bold 1em/1em 'sans-serif'; float: left; padding-left:10px; padding-top:6px}
+.text{font: normal bold 1.2em/1.2em 'sans-serif'; float: left; padding-left:10px; padding-top:6px}
 </style>
 <br>
 <div style="background-color: Gainsboro; border-radius:50px; border:5px solid darkgray;">
@@ -43,17 +43,6 @@ Profile.
 <br>
 <br>
 <br>
-
-<p style="font: normal bold 2em/1em 'sans-serif'; text-align:left; text-decoration: underline; text-underline-position:under;">
-Contact.
-</p>
-
-<div class="box">
-<img src="https://user-images.githubusercontent.com/83000975/153437874-2c6ab39b-2e0b-41e8-aa39-5c8117622430.png" height=30 weight=30>
-</div>
-<div class="text" style="width: 200px;">
-Tel. <br><sub>010-9972-3173</sub>
-</div>
 
 <div class="box">
 <img src="https://user-images.githubusercontent.com/83000975/153439370-563972e4-8f2e-4c18-b96c-ab68029fcf90.jpg" height=30 weight=30>
@@ -101,6 +90,10 @@ Skills.
 
 <div style="float: left; padding: 20px; border:1px solid gray; height:300px; width:400px; border-radius: 20px;">
 <p class="text">
-Python, Pandas, Matplotlib, Numpy, Tensorflow, AWS EC2
+OS : Windows, Mac, Ubuntu
+Language : Python, Java
+DB : MySQL
+Collaboration Tool : Slack, Google Drive, Github
+DEV Tool : Jupyter Notebook, Pycharm, MySQL Workbench, AWS EC2, AWS RDS
 </p>
 </div>
