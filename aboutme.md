@@ -24,19 +24,19 @@ Profile.
     <img src="https://user-images.githubusercontent.com/83000975/153437869-0da80e9c-e935-418e-8e62-b9b36869980a.png" height=30 weight=30>
 </div>
 <div class="text" style="width: 200px;">
-이름 <br> <sub>안준홍</sub>
+이름. <br> <sub>안준홍</sub>
 </div>
 <div class="box">
     <img src="https://user-images.githubusercontent.com/83000975/153437871-1d7331fe-6613-467c-a9c1-2ef092fc3848.jpg" height=30 weight=30>
 </div>
 <div class="text" style="width: 200px;">
-생년월일 <br> <sub>96.06.25</sub>
+생년월일. <br> <sub>96.06.25</sub>
 </div>
 <div class="box">
     <img src="https://user-images.githubusercontent.com/83000975/153437873-509a68c4-1b8b-4db3-86f6-2fcce08a6bb1.jpg" height=30 weight=30>
 </div>
 <div class="text">
-주소지 <br> <sub>서울 동대문구</sub>
+주소지. <br> <sub>서울 동대문구</sub>
 </div>
 
 <br>
@@ -48,8 +48,10 @@ Profile.
 <img src="https://user-images.githubusercontent.com/83000975/153439370-563972e4-8f2e-4c18-b96c-ab68029fcf90.jpg" height=30 weight=30>
 </div>
 <div class="text" style="width: 200px;">
+Email. 
 <a href="mailto:junhong625@gmail.com">
-Email. <br><sub>junhong625@gmail.com</sub>
+<br>
+<sub>junhong625@gmail.com</sub>
 </a>
 </div>
 
@@ -57,8 +59,10 @@ Email. <br><sub>junhong625@gmail.com</sub>
 <img src="https://user-images.githubusercontent.com/83000975/153437867-846e0d81-5823-4999-ad16-811114ac7322.jpg" height=30 weight=30>
 </div>
 <div class="text">
+Address. 
 <a href="https://github.com/junhong625/">
-Address. <br><sub>https://github.com/junhong625/</sub>
+<br>
+<sub>https://github.com/junhong625/</sub>
 </a>
 </div>
 
@@ -89,10 +93,11 @@ Skills.
 
 <div style="float: left; padding: 20px; border:1px solid gray; height:300px; width:400px; border-radius: 20px;">
 <p class="text">
-OS : Windows, Mac, Ubuntu  
-Language : Python, Java  
-DB : MySQL  
-Collaboration Tool : Slack, Google Drive, Github  
-DEV Tool : Jupyter Notebook, Pycharm, MySQL Workbench, AWS EC2, AWS RDS
+
+**OS** : Windows, Mac, Ubuntu  
+**Language** : Python, Java  
+**DB** : MySQL  
+**Collaboration Tool** : Slack, Google Drive, Github  
+**DEV Tool** : Jupyter Notebook, Pycharm, MySQL Workbench, AWS EC2, AWS RDS
 </p>
 </div>
