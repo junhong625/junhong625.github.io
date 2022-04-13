@@ -15,7 +15,7 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Post: "/post"
+  Post: "_posts"
   Resources:
     - Github: "https://www.github.com/junhong625/"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -225,7 +225,7 @@ kramdown:
 defaults:
   -
     scope:
-      path: "/posts"
+      path: ""
       type: "posts"
     values:
       layout: "post"
