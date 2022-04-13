@@ -92,12 +92,6 @@ Graduate.
 Skills.
 </p>
 
-<style type="text/css">
-.box{float: left; padding-top: 5px; padding-bottom: 5px; padding-left: 8px; padding-right: 8px; border-radius:15px}
-.text{font: normal bold 1.2em/1.2em 'sans-serif'; float: left; padding-left:10px; padding-top:6px}
-.img{padding:20px}
-</style>
-
 <div style="float: left; padding: 20px; border:5px solid black; height:auto; width:auto; border-radius: 20px;">
 <img class="img" src=https://user-images.githubusercontent.com/83000975/162969845-1bddf170-fd73-4b5c-9f47-64b3c0694aa3.png width=80 height=80>
 
