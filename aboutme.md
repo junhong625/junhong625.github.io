@@ -114,10 +114,11 @@ Skills.
   Language.
   </p>
   <hr class="line">
+  <div>
   <img class="img" src="https://user-images.githubusercontent.com/83000975/163158679-ecf6dc02-f121-4354-b253-d560ca459007.png" width=80 height=80>
 
   <img class="img" src="https://user-images.githubusercontent.com/83000975/162971133-625a70b5-3a68-4488-a39d-69e18a7417a1.png"  width=80 height=80>
-
+  </div>
   <br>
   <br>
 
@@ -125,25 +126,29 @@ Skills.
   DB.
   </p>
   <hr class="line">
+  <div>
   <img class="img" src="https://user-images.githubusercontent.com/83000975/163159377-176a4434-860f-4a46-84be-d2481c26bf0f.png" width=80 height=80>
+  </div>
   <br>
   <br>
   <p class="skill">
   Collaboration Tool.
   </p>
   <hr class="line">
+  <div>
   <img class="img" src="https://user-images.githubusercontent.com/83000975/163164848-5247a9e5-6a11-4bba-a9cc-e047f805d26a.png" width=80 height=80>
 
   <img class="img" src="https://user-images.githubusercontent.com/83000975/163159638-4cecb84a-16c0-433c-bb0d-bad3341d05f3.png" width=80 height=80>
 
   <img class="img" src="https://user-images.githubusercontent.com/83000975/162971408-29e97639-e608-46bb-aef4-7b686fef1aea.png" width=80 height=80>
-
+  </div>
   <br>
   <br>
   <p class="skill">
   DEV Tool
   </p>
   <hr class="line">
+  <div>
   <img class="img" src="https://user-images.githubusercontent.com/83000975/162971461-a048de40-9251-4155-97c1-c023ca215163.png" width=80 height=80>
 
   <img class="img" src="https://user-images.githubusercontent.com/83000975/163160794-442ec295-77fc-4d55-98c9-f77db931e20d.png" width=80 height=80>
@@ -153,3 +158,5 @@ Skills.
   <img class="img" src="https://user-images.githubusercontent.com/83000975/163164837-0709755f-46b9-4cb2-9ed5-d22aa4ee3dc1.png" width=80 height=80>
 
   <img class="img" src="https://user-images.githubusercontent.com/83000975/163164824-37f8716a-86f9-4bc1-ace9-352f326952af.png" width=80 height=80>
+  </div>
+  
