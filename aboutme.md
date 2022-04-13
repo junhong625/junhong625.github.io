@@ -113,6 +113,7 @@ Skills.
 <img class="img" src=https://user-images.githubusercontent.com/83000975/162971541-8f7bd316-bd23-46c9-86f0-68a9aee7cfc9.png width=80 height=80>
 <img class="img" src=https://user-images.githubusercontent.com/83000975/162971659-956ee368-1a78-40f3-96a0-e45efaa7c67e.png width=80 height=80>
 <img class="img" src=https://user-images.githubusercontent.com/83000975/162971672-88626451-c413-43ed-bc75-1dbfa7153fdb.png width=80 height=80>
+</div>
 <!--
 <p class="text"> 
 OS : Windows, Mac, Ubuntu  <br>
@@ -122,4 +123,3 @@ Collaboration Tool : Slack, Google Drive, Github  <br>
 DEV Tool : Jupyter Notebook, Pycharm, MySQL Workbench, AWS EC2, AWS RDS
 </p>
 -->
-</div>
