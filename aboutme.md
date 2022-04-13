@@ -4,7 +4,7 @@ layout: page
 <style type="text/css">
 .box{float: left; padding-top: 5px; padding-bottom: 5px; padding-left: 8px; padding-right: 8px; border-radius:15px}
 .text{font: normal bold 1.2em/1.2em 'sans-serif'; float: left; padding-left:10px; padding-top:6px}
-.img{padding:20px; width:80; height:80}
+.img{padding:20px; width:100px; height:100px}
 </style>
 <br>
 <div style="background-color: white; border-radius:50px; border:5px solid black;">
