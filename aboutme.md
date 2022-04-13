@@ -91,8 +91,64 @@ Graduate.
 <p style="font: normal bold 2em/1em 'sans-serif'; text-align:left; text-decoration: underline; text-underline-position:under;">
 Skills.
 </p>
+<p style="font: normal bold 2em/1em 'sans-serif'; text-align:left; text-decoration:">
+OS.
+</p>
+<div style="padding: 20px; border:5px solid black; height:auto; width:auto; border-radius: 20px;">
 
-<div style="float: left; padding: 20px; border:5px solid black; height:auto; width:auto; border-radius: 20px;">
+<img class="img" src="https://user-images.githubusercontent.com/83000975/162969845-1bddf170-fd73-4b5c-9f47-64b3c0694aa3.png" width='80' height='100'>
+
+<img class="img" src="https://user-images.githubusercontent.com/83000975/162970839-8251fe17-4bd9-4254-ac75-baa0ebce82c5.png" width=80 height=80>
+
+<img class="img" src="https://user-images.githubusercontent.com/83000975/162971045-f4b9b3fb-ec50-4566-83e1-a5edcacbc043.png" width=80 height=80>
+</div>
+
+<br>
+<br>
+
+<p style="font: normal bold 2em/1em 'sans-serif'; text-align:left; text-decoration:">
+Language.
+</p>
+<div style="padding: 20px; border:5px solid black; height:auto; width:auto; border-radius: 20px;">
+<img class="img" src="https://user-images.githubusercontent.com/83000975/163158679-ecf6dc02-f121-4354-b253-d560ca459007.png" width=80 height=80>
+
+<img class="img" src="https://user-images.githubusercontent.com/83000975/162971133-625a70b5-3a68-4488-a39d-69e18a7417a1.png"  width=80 height=80>
+</div>
+
+<br>
+
+<p style="font: normal bold 2em/1em 'sans-serif'; text-align:left; text-decoration:">
+DB.
+</p>
+<div style="padding: 20px; border:5px solid black; height:auto; width:auto; border-radius: 20px;">
+<img class="img" src="https://user-images.githubusercontent.com/83000975/163159377-176a4434-860f-4a46-84be-d2481c26bf0f.png" width=80 height=80>
+</div>
+<p style="font: normal bold 2em/1em 'sans-serif'; text-align:left; text-decoration:">
+Collaboration Tool.
+</p>
+<div style="padding: 20px; border:5px solid black; height:auto; width:auto; border-radius: 20px;">
+<img class="img" src="https://user-images.githubusercontent.com/83000975/162971248-54e33ea4-8be5-417a-9623-aa1bd03f5177.png" width=80 height=80>
+
+<img class="img" src="https://user-images.githubusercontent.com/83000975/163159638-4cecb84a-16c0-433c-bb0d-bad3341d05f3.png" width=80 height=80>
+
+<img class="img" src="https://user-images.githubusercontent.com/83000975/162971408-29e97639-e608-46bb-aef4-7b686fef1aea.png" width=80 height=80>
+</div>
+
+<p style="font: normal bold 2em/1em 'sans-serif'; text-align:left; text-decoration:">
+DEV Tool
+</p>
+<div style="padding: 20px; border:5px solid black; height:auto; width:auto; border-radius: 20px;">
+<img class="img" src="https://user-images.githubusercontent.com/83000975/162971461-a048de40-9251-4155-97c1-c023ca215163.png" width=80 height=80>
+
+<img class="img" src="https://user-images.githubusercontent.com/83000975/163160794-442ec295-77fc-4d55-98c9-f77db931e20d.png" width=80 height=80>
+
+<img class="img" src="https://user-images.githubusercontent.com/83000975/162971541-8f7bd316-bd23-46c9-86f0-68a9aee7cfc9.png" width=80 height=80>
+
+<img class="img" src="https://user-images.githubusercontent.com/83000975/162971659-956ee368-1a78-40f3-96a0-e45efaa7c67e.png" width=80 height=80>
+
+<img class="img" src="https://user-images.githubusercontent.com/83000975/162971672-88626451-c413-43ed-bc75-1dbfa7153fdb.png" width=80 height=80>
+</div> 
+<!--div style="float: left; padding: 20px; border:5px solid black; height:auto; width:auto; border-radius: 20px;">
 <img class="img" src="https://user-images.githubusercontent.com/83000975/162969845-1bddf170-fd73-4b5c-9f47-64b3c0694aa3.png">
 
 <img class="img" src="https://user-images.githubusercontent.com/83000975/162970839-8251fe17-4bd9-4254-ac75-baa0ebce82c5.png">
@@ -120,4 +176,4 @@ Skills.
 <img class="img" src="https://user-images.githubusercontent.com/83000975/163164824-37f8716a-86f9-4bc1-ace9-352f326952af.png">
 
 <img class="img" src="https://user-images.githubusercontent.com/83000975/163164837-0709755f-46b9-4cb2-9ed5-d22aa4ee3dc1.png">
-</div> 
+</div--> 
