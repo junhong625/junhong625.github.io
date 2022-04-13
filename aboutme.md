@@ -7,7 +7,7 @@ layout: page
 .img{padding:20px}
 </style>
 <br>
-<div style="background-color: Gainsboro; border-radius:50px; border:5px solid darkgray;">
+<div style="background-color: white; border-radius:50px; border:5px solid #36E7FF;">
 <div style="font: normal bold 2em/2em 'sans-serif'; text-align:center;">
 안녕하세요. 
 <br>
