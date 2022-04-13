@@ -59,7 +59,7 @@ Email.
 <img src="https://user-images.githubusercontent.com/83000975/153437867-846e0d81-5823-4999-ad16-811114ac7322.jpg" height=30 width=30>
 </div>
 <div class="text">
-Address. 
+Github. 
 <a href="https://github.com/junhong625/">
 <br>
 <sub>https://github.com/junhong625/</sub>
