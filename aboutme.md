@@ -5,7 +5,7 @@ layout: page
 .box{float: left; padding-top: 5px; padding-bottom: 5px; padding-left: 8px; padding-right: 8px; border-radius:15px}
 .text{font: normal bold 1.2em/1.2em 'sans-serif'; float: left; padding-left:10px; padding-top:6px}
 .img{padding:20px; width:100px; height:100px}
-.skill{font: normal bold 2.0em/0em 'sans-serif'; text-align:left;}
+.skill{font: normal bold 1.5em/0em 'sans-serif'; text-align:left;}
 .line{height:2px; background-color:black; border-color:black;}
 </style>
 <br>
