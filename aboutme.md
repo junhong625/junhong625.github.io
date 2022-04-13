@@ -105,7 +105,7 @@ Skills.
 
 <img class="img" src="https://user-images.githubusercontent.com/83000975/163159377-176a4434-860f-4a46-84be-d2481c26bf0f.png">
 
-<img class="img" src="https://user-images.githubusercontent.com/83000975/162971248-54e33ea4-8be5-417a-9623-aa1bd03f5177.png">
+<img class="img" src="https://user-images.githubusercontent.com/83000975/163164848-5247a9e5-6a11-4bba-a9cc-e047f805d26a.png">
 
 <img class="img" src="https://user-images.githubusercontent.com/83000975/163159638-4cecb84a-16c0-433c-bb0d-bad3341d05f3.png">
 
@@ -117,7 +117,7 @@ Skills.
 
 <img class="img" src="https://user-images.githubusercontent.com/83000975/162971541-8f7bd316-bd23-46c9-86f0-68a9aee7cfc9.png">
 
-<img class="img" src="https://user-images.githubusercontent.com/83000975/162971659-956ee368-1a78-40f3-96a0-e45efaa7c67e.png">
+<img class="img" src="https://user-images.githubusercontent.com/83000975/163164824-37f8716a-86f9-4bc1-ace9-352f326952af.png">
 
-<img class="img" src="https://user-images.githubusercontent.com/83000975/162971672-88626451-c413-43ed-bc75-1dbfa7153fdb.png">
+<img class="img" src="https://user-images.githubusercontent.com/83000975/163164837-0709755f-46b9-4cb2-9ed5-d22aa4ee3dc1.png">
 </div> 
