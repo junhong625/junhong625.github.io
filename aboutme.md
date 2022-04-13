@@ -21,19 +21,19 @@ Profile.
 </p>
 
 <div class="box">
-    <img src="https://user-images.githubusercontent.com/83000975/153437869-0da80e9c-e935-418e-8e62-b9b36869980a.png" height=30 weight=30>
+    <img src="https://user-images.githubusercontent.com/83000975/153437869-0da80e9c-e935-418e-8e62-b9b36869980a.png" height=30 width=30>
 </div>
 <div class="text" style="width: 200px;">
 이름. <br> <sub>안준홍</sub>
 </div>
 <div class="box">
-    <img src="https://user-images.githubusercontent.com/83000975/153437871-1d7331fe-6613-467c-a9c1-2ef092fc3848.jpg" height=30 weight=30>
+    <img src="https://user-images.githubusercontent.com/83000975/153437871-1d7331fe-6613-467c-a9c1-2ef092fc3848.jpg" height=30 width=30>
 </div>
 <div class="text" style="width: 200px;">
 생년월일. <br> <sub>96.06.25</sub>
 </div>
 <div class="box">
-    <img src="https://user-images.githubusercontent.com/83000975/153437873-509a68c4-1b8b-4db3-86f6-2fcce08a6bb1.jpg" height=30 weight=30>
+    <img src="https://user-images.githubusercontent.com/83000975/153437873-509a68c4-1b8b-4db3-86f6-2fcce08a6bb1.jpg" height=30 width=30>
 </div>
 <div class="text">
 주소지. <br> <sub>서울 동대문구</sub>
@@ -45,7 +45,7 @@ Profile.
 <br>
 
 <div class="box">
-<img src="https://user-images.githubusercontent.com/83000975/153439370-563972e4-8f2e-4c18-b96c-ab68029fcf90.jpg" height=30 weight=30>
+<img src="https://user-images.githubusercontent.com/83000975/153439370-563972e4-8f2e-4c18-b96c-ab68029fcf90.jpg" height=30 width=30>
 </div>
 <div class="text" style="width: 200px;">
 Email. 
@@ -56,7 +56,7 @@ Email.
 </div>
 
 <div class="box">
-<img src="https://user-images.githubusercontent.com/83000975/153437867-846e0d81-5823-4999-ad16-811114ac7322.jpg" height=30 weight=30>
+<img src="https://user-images.githubusercontent.com/83000975/153437867-846e0d81-5823-4999-ad16-811114ac7322.jpg" height=30 width=30>
 </div>
 <div class="text">
 Address. 
@@ -76,7 +76,7 @@ Graduate.
 </p>
 
 <div class="box">
-<img src="https://user-images.githubusercontent.com/83000975/153754969-61e641fa-c457-4569-95d8-3c04adbfbd1b.png" height=30 weight=30>
+<img src="https://user-images.githubusercontent.com/83000975/153754969-61e641fa-c457-4569-95d8-3c04adbfbd1b.png" height=30 width=30>
 </div>
 <div class="text">
 <sub>2015.03 ~ 2021.08  |  서울 세종대학교(체육학과) 졸업</sub> <br><sub>2021.07 ~ 2022.01  |  강남 비트교육센터(빅데이터 분석을 활용한 예측&인공지능(AI) 모델링) 수료</sub>
@@ -93,11 +93,24 @@ Skills.
 
 <div style="float: left; padding: 20px; border:1px solid gray; height:300px; width:400px; border-radius: 20px;">
 <p class="text">
-
-**OS** : Windows, Mac, Ubuntu  
-**Language** : Python, Java  
-**DB** : MySQL  
-**Collaboration Tool** : Slack, Google Drive, Github  
-**DEV Tool** : Jupyter Notebook, Pycharm, MySQL Workbench, AWS EC2, AWS RDS
+<img width='80' height='80' src=https://user-images.githubusercontent.com/83000975/162969845-1bddf170-fd73-4b5c-9f47-64b3c0694aa3.png>
+<img width='80' height='80' src=https://user-images.githubusercontent.com/83000975/162970839-8251fe17-4bd9-4254-ac75-baa0ebce82c5.png>
+<img width='80' height='80' src=https://user-images.githubusercontent.com/83000975/162971045-f4b9b3fb-ec50-4566-83e1-a5edcacbc043.png>
+<img width='80' height='80' src=https://user-images.githubusercontent.com/83000975/162971089-3b5ad84c-86c8-47d8-a635-8dadee1a3739.png>
+<img width='80' height='80' src=https://user-images.githubusercontent.com/83000975/162971133-625a70b5-3a68-4488-a39d-69e18a7417a1.png>
+<img width='80' height='80' src=https://user-images.githubusercontent.com/83000975/162971204-1f6a5db5-f404-4de7-aabb-c3a96c420b73.png>
+<img width='80' height='80' src=https://user-images.githubusercontent.com/83000975/162971248-54e33ea4-8be5-417a-9623-aa1bd03f5177.png>
+<img width='80' height='80' src=https://user-images.githubusercontent.com/83000975/162971349-e7fcc5ac-09c9-4bbe-9ff2-6d12443fd645.png>
+<img width='80' height='80' src=https://user-images.githubusercontent.com/83000975/162971408-29e97639-e608-46bb-aef4-7b686fef1aea.png>
+<img width='80' height='80' src=https://user-images.githubusercontent.com/83000975/162971461-a048de40-9251-4155-97c1-c023ca215163.png>
+<img width='80' height='80' src=https://user-images.githubusercontent.com/83000975/162971506-87885f95-d839-4256-b245-3e7b1be071de.png>
+<img width='80' height='80' src=https://user-images.githubusercontent.com/83000975/162971541-8f7bd316-bd23-46c9-86f0-68a9aee7cfc9.png>
+<img width='80' height='80' src=https://user-images.githubusercontent.com/83000975/162971659-956ee368-1a78-40f3-96a0-e45efaa7c67e.png>
+<img width='80' height='80' src=https://user-images.githubusercontent.com/83000975/162971672-88626451-c413-43ed-bc75-1dbfa7153fdb.png>
+OS : Windows, Mac, Ubuntu  <br>
+Language : Python, Java  <br>
+DB : MySQL  <br>
+Collaboration Tool : Slack, Google Drive, Github  <br>
+DEV Tool : Jupyter Notebook, Pycharm, MySQL Workbench, AWS EC2, AWS RDS
 </p>
 </div>
