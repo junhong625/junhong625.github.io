@@ -92,7 +92,7 @@ Graduate.
 Skills.
 </p>
 
-<!--div style="float: left; padding: 20px; border:5px solid black; height:auto; width:auto; border-radius: 20px;"-->
+<div style="float: left; padding: 20px; border:5px solid black; height:auto; width:auto; border-radius: 20px;">
 <img class="img" src="https://user-images.githubusercontent.com/83000975/162969845-1bddf170-fd73-4b5c-9f47-64b3c0694aa3.png" width='80' height='80'>
 
 <img class="img" src="https://user-images.githubusercontent.com/83000975/162970839-8251fe17-4bd9-4254-ac75-baa0ebce82c5.png" width=80 height=80>
@@ -120,4 +120,4 @@ Skills.
 <img class="img" src="https://user-images.githubusercontent.com/83000975/162971659-956ee368-1a78-40f3-96a0-e45efaa7c67e.png" width=80 height=80>
 
 <img class="img" src="https://user-images.githubusercontent.com/83000975/162971672-88626451-c413-43ed-bc75-1dbfa7153fdb.png" width=80 height=80>
-<!--/div--> 
+</div> 
