@@ -121,12 +121,3 @@ Skills.
 
 <img class="img" src=https://user-images.githubusercontent.com/83000975/162971672-88626451-c413-43ed-bc75-1dbfa7153fdb.png width=80 height=80>
 <!--/div-->
-<!--
-<p class="text"> 
-OS : Windows, Mac, Ubuntu  <br>
-Language : Python, Java  <br>
-DB : MySQL  <br>
-Collaboration Tool : Slack, Google Drive, Github  <br>
-DEV Tool : Jupyter Notebook, Pycharm, MySQL Workbench, AWS EC2, AWS RDS
-</p>
--->
