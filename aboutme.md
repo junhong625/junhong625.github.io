@@ -96,7 +96,7 @@ Skills.
 
 <br>
 
-<div style="padding: 5px; border:5px solid black; height:auto; width:auto; border-radius: 20px;">
+
   <p class="skill">
   OS.
   </p>
@@ -132,7 +132,7 @@ Skills.
   Collaboration Tool.
   </p>
   <hr class="line">
-  <img class="img" src="https://user-images.githubusercontent.com/83000975/162971248-54e33ea4-8be5-417a-9623-aa1bd03f5177.png" width=80 height=80>
+  <img class="img" src="https://user-images.githubusercontent.com/83000975/163164848-5247a9e5-6a11-4bba-a9cc-e047f805d26a.png" width=80 height=80>
 
   <img class="img" src="https://user-images.githubusercontent.com/83000975/163159638-4cecb84a-16c0-433c-bb0d-bad3341d05f3.png" width=80 height=80>
 
@@ -150,7 +150,6 @@ Skills.
 
   <img class="img" src="https://user-images.githubusercontent.com/83000975/162971541-8f7bd316-bd23-46c9-86f0-68a9aee7cfc9.png" width=80 height=80>
 
-  <img class="img" src="https://user-images.githubusercontent.com/83000975/162971659-956ee368-1a78-40f3-96a0-e45efaa7c67e.png" width=80 height=80>
+  <img class="img" src="https://user-images.githubusercontent.com/83000975/163164837-0709755f-46b9-4cb2-9ed5-d22aa4ee3dc1.png" width=80 height=80>
 
-  <img class="img" src="https://user-images.githubusercontent.com/83000975/162971672-88626451-c413-43ed-bc75-1dbfa7153fdb.png" width=80 height=80>
-</div>
+  <img class="img" src="https://user-images.githubusercontent.com/83000975/163164824-37f8716a-86f9-4bc1-ace9-352f326952af.png" width=80 height=80>
