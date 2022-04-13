@@ -4,10 +4,10 @@ layout: page
 <style type="text/css">
 .box{float: left; padding-top: 5px; padding-bottom: 5px; padding-left: 8px; padding-right: 8px; border-radius:15px}
 .text{font: normal bold 1.2em/1.2em 'sans-serif'; float: left; padding-left:10px; padding-top:6px}
-.img{padding:20px}
+.img{padding:20px; width:80; height:80}
 </style>
 <br>
-<div style="background-color: white; border-radius:50px; border:5px solid #36E7FF;">
+<div style="background-color: white; border-radius:50px; border:5px solid #6dc3fc;">
 <div style="font: normal bold 2em/2em 'sans-serif'; text-align:center;">
 안녕하세요. 
 <br>
@@ -99,21 +99,21 @@ Skills.
 
 <img class="img" src="https://user-images.githubusercontent.com/83000975/162971045-f4b9b3fb-ec50-4566-83e1-a5edcacbc043.png" width=80 height=80>
 
-<img class="img" src="https://user-images.githubusercontent.com/83000975/162971089-3b5ad84c-86c8-47d8-a635-8dadee1a3739.png" width=80 height=80>
+<img class="img" src="https://user-images.githubusercontent.com/83000975/163158679-ecf6dc02-f121-4354-b253-d560ca459007.png" width=80 height=80>
 
 <img class="img" src="https://user-images.githubusercontent.com/83000975/162971133-625a70b5-3a68-4488-a39d-69e18a7417a1.png"  width=80 height=80>
 
-<img class="img" src="https://user-images.githubusercontent.com/83000975/162971204-1f6a5db5-f404-4de7-aabb-c3a96c420b73.png" width=80 height=80>
+<img class="img" src="https://user-images.githubusercontent.com/83000975/163159377-176a4434-860f-4a46-84be-d2481c26bf0f.png" width=80 height=80>
 
 <img class="img" src="https://user-images.githubusercontent.com/83000975/162971248-54e33ea4-8be5-417a-9623-aa1bd03f5177.png" width=80 height=80>
 
-<img class="img" src="https://user-images.githubusercontent.com/83000975/162971349-e7fcc5ac-09c9-4bbe-9ff2-6d12443fd645.png" width=80 height=80>
+<img class="img" src="https://user-images.githubusercontent.com/83000975/163159638-4cecb84a-16c0-433c-bb0d-bad3341d05f3.png" width=80 height=80>
 
 <img class="img" src="https://user-images.githubusercontent.com/83000975/162971408-29e97639-e608-46bb-aef4-7b686fef1aea.png" width=80 height=80>
 
 <img class="img" src="https://user-images.githubusercontent.com/83000975/162971461-a048de40-9251-4155-97c1-c023ca215163.png" width=80 height=80>
 
-<img class="img" src="https://user-images.githubusercontent.com/83000975/162971506-87885f95-d839-4256-b245-3e7b1be071de.png" width=80 height=80>
+<img class="img" src="https://user-images.githubusercontent.com/83000975/163160794-442ec295-77fc-4d55-98c9-f77db931e20d.png" width=80 height=80>
 
 <img class="img" src="https://user-images.githubusercontent.com/83000975/162971541-8f7bd316-bd23-46c9-86f0-68a9aee7cfc9.png" width=80 height=80>
 
