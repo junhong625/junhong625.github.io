@@ -5,7 +5,7 @@ layout: page
 .box{float: left; padding-top: 5px; padding-bottom: 5px; padding-left: 8px; padding-right: 8px; border-radius:15px}
 .text{font: normal bold 1.2em/1.2em 'sans-serif'; float: left; padding-left:10px; padding-top:6px}
 .img{padding:20px; width:100px; height:100px}
-.skill{font: normal bold 1.5em/0em 'sans-serif'; text-align:left;}
+.skill{font: normal bold 1.5em/0em 'sans-serif'; text-align:left; padding-left:10px;}
 .line{height:2px; background-color:black; border-color:black;}
 </style>
 <br>
@@ -96,21 +96,18 @@ Skills.
 
 <br>
 
-
+  <div style="background-color: white; border-radius:10px; border:5px solid black;">
   <p class="skill">
-  OS.
+    OS.
   </p>
   <hr class="line">
-  <div>
   <img class="img" src="https://user-images.githubusercontent.com/83000975/162969845-1bddf170-fd73-4b5c-9f47-64b3c0694aa3.png" width='80' height='100'>
 
   <img class="img" src="https://user-images.githubusercontent.com/83000975/162970839-8251fe17-4bd9-4254-ac75-baa0ebce82c5.png" width=80 height=80>
 
   <img class="img" src="https://user-images.githubusercontent.com/83000975/162971045-f4b9b3fb-ec50-4566-83e1-a5edcacbc043.png" width=80 height=80>
-  </div>
-  <br>
-  <br>
 
+  <hr class="line">
   <p class="skill">
   Language.
   </p>
@@ -120,9 +117,7 @@ Skills.
 
   <img class="img" src="https://user-images.githubusercontent.com/83000975/162971133-625a70b5-3a68-4488-a39d-69e18a7417a1.png"  width=80 height=80>
   </div>
-  <br>
-  <br>
-
+  <hr class="line">
   <p class="skill">
   DB.
   </p>
@@ -130,8 +125,7 @@ Skills.
   <div>
   <img class="img" src="https://user-images.githubusercontent.com/83000975/163159377-176a4434-860f-4a46-84be-d2481c26bf0f.png" width=80 height=80>
   </div>
-  <br>
-  <br>
+  <hr class="line">
   <p class="skill">
   Collaboration Tool.
   </p>
@@ -143,8 +137,8 @@ Skills.
 
   <img class="img" src="https://user-images.githubusercontent.com/83000975/162971408-29e97639-e608-46bb-aef4-7b686fef1aea.png" width=80 height=80>
   </div>
-  <br>
-  <br>
+
+  <hr class="line">
   <p class="skill">
   DEV Tool
   </p>
@@ -160,4 +154,4 @@ Skills.
 
   <img class="img" src="https://user-images.githubusercontent.com/83000975/163164824-37f8716a-86f9-4bc1-ace9-352f326952af.png" width=80 height=80>
   </div>
-  
+  </div>
