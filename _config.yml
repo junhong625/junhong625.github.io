@@ -16,7 +16,7 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Tags: "tags"
-  Posts: "_posts"
+  Posts: "posts"
   Resources:
     - Github: "https://www.github.com/junhong625/"
     - Learn markdown: "https://www.markdowntutorial.com/"
