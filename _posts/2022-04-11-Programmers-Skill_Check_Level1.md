@@ -8,10 +8,11 @@ tags : [Algorithm]
 comments: true
 ---
 # Programmers [Skill Check] Level 1
+
 `Programmers` 알고리즘 문제를 여럿 풀어보면서 어느정도 자신감이 쌓여 `Level 1`에 도전해봐도 되겠다는 생각이 들어 스킬체크 `Level 1`에 도전해봤습니다.
 
 결과는.... **합격**!
-<img width="300" src="https://user-images.githubusercontent.com/83000975/162741994-5d63b894-8f96-402b-bb53-722bc8ae50b3.png">
+<img width="900" src="https://user-images.githubusercontent.com/83000975/162741994-5d63b894-8f96-402b-bb53-722bc8ae50b3.png">
 
 1번 문제는 무리없이 한 번에 풀고 2번 문제에서 잠깐 멈칫했지만 무리없이 통과할 수 있었습니다.
 
