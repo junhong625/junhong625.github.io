@@ -4,7 +4,7 @@ title : PyMySQL 사용 목적 및 사용법
 subtitle : PyMySQL
 gh-repo: junhong625/Python
 gh-badge: [star, fork, follow]
-tags : [Python, MySQL]
+tags : [Python], [MySQL]
 comments: true
 ---
 현재 인프런에서 수강 중인 잔재미코딩의 MySQL 강의에서 나온 PyMySQL 사용 목적 및 사용법을 블로그에 포스팅하며 복습하고 추후에 다시 찾아볼 수 있도록 남기는 기록입니다.
