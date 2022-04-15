@@ -1,0 +1,97 @@
+---
+layout : post
+title : PyMySQL 사용법
+subtitle : PyMySQL
+gh-repo: junhong625/Python
+gh-badge: [star, fork, follow]
+tags : [Python, MySQL]
+comments: true
+---
+현재 인프런에서 수강 중인 잔재미코딩의 MySQL 강의에서 나온 PyMySQL 사용법을 블로그에 포스팅하며 복습하고 추후에 다시 찾아볼 수 있도록 남기는 기록입니다.
+
+PyMySQL 사용법에 대한 설명에 앞서 아주 간단하게 사용법을 요약하자면 딱 7가지만 기억하면 됩니다. 
+```
+1. 라이브러리 가져오기
+2. DB 연결 하기
+3. 커서 가져오기
+4. SQL 구문 만들기
+5. SQL 구문 실행하기
+6. DB에 Commit하기
+7. DB 연결 닫기
+```
+이 7가지만 기억하여 4번의 SQl 구문만 목적에 맞춰 작성을 해주면 쉽게 사용이 가능합니다. 
+이 점을 생각하며 이제 정리를 시작해보겠습니다.
+
+# PyMySQL 사용법
+
+## 1. 라이브러리 가져오기
+PyMySQL 라이브러리 불러오기
+
+```
+import pymysql 
+```
+> `ModuleNotFoundError`에러가 뜰 경우, 라이브러리 설치가 되지 않았다는 것이므로 `pip install pymysql`을 통해 라이브러리 설치
+<br>
+
+## 2. 접속하기
+.connect(주소, 포트번호, 접속할 유저, 암호, 접속할 DB, 문자 세트)로 MySQL에 접속
+
+```
+db = pymysql.connect(host='localhost',
+                     port=3306, user='ID', passwd='password', db='DBname',
+                     charset='utf8')
+```
+> mysql에 접속한 객체를 `db` 변수에 저장
+<br>
+
+## 3. 커서 가져오기
+.cursor()로 커서 가져오기
+
+```
+# db는 mysql에 접속한 객체를 저장한 변수
+cursor = db.cursor()
+```
+> `.cursor()`를 원하는 SQL 구문을 집어넣을 수 있도록 준비하여 `cursor` 변수에 저장
+<br>
+
+## 4. SQL 구문 만들기
+MySQL에 입력하는 쿼리문과 같은 형식으로 목적에 맞게 쿼리문을 작성합니다.
+```
+# 테이블 생성 예시
+SQL = '''CREATE TABLE NEWTABLE (
+                ID INT UNSIGNED NOT NULL AUTO_INCREMENT,
+                NAME VARCHAR(20) NOT NULL,
+                HEIGHT INT NOT NULL,
+                WEIGHT INT NOT NULL,
+                PRIMARY KEY(ID)
+        );
+      '''
+```
+> 쿼리문을 `SQL` 변수에 저장 
+<br>
+
+## 5. SQL 구문 실행하기
+.execute()로 작성해둔 쿼리문을 실행합니다.
+```
+# cursor는 db.cursor를 저장한 변수
+cursor.execute(SQL)
+```
+> 오류 발생 시 MySQL에서 잘못 입력했을 때와 같은 에러문이 뜨니 오류 발생 시 에러문을 보고 해석하면 됩니다.
+<br>
+
+## 6. DB에 commit하기
+.commit()으로 지금까지 작업한 내용을 DB에 적용합니다.
+```
+# mysql에 접속한 개체를 저장한 변수 db
+db.commit()
+```
+> `commit()`을 하기전까지는 작업 내용이 DB에 적용되지 않으니 작업을 오류없이 완료한 뒤 `commit()`을 통해 DB에 적용을 해야합니다.
+<br>
+
+## 7. DB 연결 닫기
+무사히 commit을 마쳤다면 .close()를 통해 DB와의 연결을 해제합니다.
+```
+# mysql에 접속한 개체를 저장한 변수 db
+db.close()
+```
+> 작업을 마무리 후 `close`까지 하는 것이 완전한 작업의 마무리
