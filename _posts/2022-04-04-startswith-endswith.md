@@ -1,6 +1,6 @@
 ---
 layout : post
-title : startwith, endswith
+title : [Python]startswith, endswith
 subtitle : Python 함수
 gh-repo: junhong625/Algorithm
 gh-badge: [star, fork, follow]
