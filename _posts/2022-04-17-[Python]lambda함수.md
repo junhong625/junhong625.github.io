@@ -7,6 +7,7 @@ gh-badge: [star, fork, follow]
 tags : [Python]
 comments: true
 ---
+  
 `lambda 함수`는 python에서 사용하는 함수로 '익명함수'라고도 불립니다.  
 그렇다면 `lambda 함수`를 사용하는 이유는 무엇일까요??
 
