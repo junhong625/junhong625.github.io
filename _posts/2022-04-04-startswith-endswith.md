@@ -1,7 +1,7 @@
 ---
 layout : post
-title : [Python]startswith, endswith
-subtitle : Python 함수
+title : '[Python]startswith, endswith 사용법'
+subtitle : startswith, endswith
 gh-repo: junhong625/Algorithm
 gh-badge: [star, fork, follow]
 tags : [Python]
