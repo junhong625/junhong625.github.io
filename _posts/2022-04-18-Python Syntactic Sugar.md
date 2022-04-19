@@ -133,3 +133,5 @@ squared = {i: i**2 for i in range(1, 11) if i % 2 == 1}
   
    
 이렇게 Python에서 사용하는 다양한 `Syntactic Sugar`에 대해 알아봤습니다. 오늘도 새로운 지식을 얻어가 기분 좋게 하루를 마무리 지을 수 있을 것 같습니다.
+
+> 참고링크 [https://www.codeit.kr/community/threads/19376](https://www.codeit.kr/community/threads/19376)
