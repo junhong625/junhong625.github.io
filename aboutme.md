@@ -12,8 +12,9 @@ layout: page
 <div style="background-color: white; border-radius:50px; border:5px solid black;">
 <div style="font: normal bold 2em/2em 'sans-serif'; text-align:center;">
 안녕하세요. 
+<img height=30 src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 <br>
-<span style="color:CornflowerBlue; float:center; font: normal bold 2em/2em 'sans-serif';">소통</span>하며 함께 <span style="color:LightCoral; float:center; font: normal bold 2em/2em 'sans-serif';;">성장</span>하는 개발자 <span style="font: normal bold 2em/2em 'sans-serif'; float:center;">
+<span style="color:CornflowerBlue; float:center; font: normal bold 1.2em/1.2em 'sans-serif';">소통</span>하며 함께 <span style="color:LightCoral; float:center; font: normal bold 1.2em/1.2em 'sans-serif';;">성장</span>하는 개발자 <span style="font: normal bold 1.5em/1.5em 'sans-serif'; float:center;">
 <br>『 안준홍 』</span>입니다. 
 </div>
 </div>
