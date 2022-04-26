@@ -12,7 +12,7 @@ layout: page
 <div style="background-color: white; border-radius:50px; border:5px solid black;">
 <div style="font: normal bold 2em/2em 'sans-serif'; text-align:center;">
 안녕하세요. 
-<img height=30 src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
+<img height=40 src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 <br>
 <span style="color:CornflowerBlue; float:center; font: normal bold 1.2em/1.2em 'sans-serif';">소통</span>하며 함께 <span style="color:LightCoral; float:center; font: normal bold 1.2em/1.2em 'sans-serif';;">성장</span>하는 개발자 <span style="font: normal bold 1.5em/1.5em 'sans-serif'; float:center;">
 <br>『 안준홍 』</span>입니다. 
@@ -48,26 +48,35 @@ Profile.
 <br>
 <br>
 
+<p style="font: normal bold 2em/1em 'sans-serif'; text-align:left; text-decoration: underline; text-underline-position:under;">
+Contact.
+</p>
 <div class="box">
     <img src="https://user-images.githubusercontent.com/83000975/153439370-563972e4-8f2e-4c18-b96c-ab68029fcf90.jpg" height=30 width=30>
 </div>
 <div class="text" style="width: 200px;">
-Email. 
-<a href="mailto:junhong625@gmail.com">
+Email.
 <br>
-<sub>junhong625@gmail.com</sub>
+<sub>
+<a style="color:#1EC800; background-color:white; text-decoration:none; border-radius:3px; border:2px solid #1EC800; padding-right:5px;" href="mailto:junhong625@gmail.com">
+<img style="float:cneter; margin-right:5px; margin-bottom:-5px;" height=20 src="https://user-images.githubusercontent.com/83000975/165331894-94882dfe-bc91-44ee-9112-6bebc1e1102f.png">naver 
 </a>
+</sub>
 </div>
 
 <div class="box">
     <img src="https://user-images.githubusercontent.com/83000975/153437867-846e0d81-5823-4999-ad16-811114ac7322.jpg" height=30 width=30>
 </div>
-<div class="text">
-Github. 
-<a href="https://github.com/junhong625/">
+<div class="text"> 
+Github.
 <br>
-<sub>https://github.com/junhong625/</sub>
+<sub>
+<a style="color:black; background-color:white; text-decoration:none; border-radius:3px; border:2px solid black; padding-right:5px;" href="https://github.com/junhong625/">
+<img style="float:cneter; margin-right:5px; margin-bottom:-5px;" height=20 src="https://user-images.githubusercontent.com/83000975/165335373-ee5dbce9-3a13-455f-a93b-ea4026e04058.png">
+안준홍
+<br>
 </a>
+</sub>
 </div>
 
 <br>
