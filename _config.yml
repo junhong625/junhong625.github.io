@@ -18,11 +18,11 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - A-Fit: "https://github.com/junhong625/A_FIT"
-    - 강수량과 교통사고의 연관성: "https://github.com/junhong625/miniproject"
-  Posts: "https://junhong625.github.io"
+    - A-Fit: "https://github.com/junhong625/A_FIT"{:target="_blank"}
+    - 강수량과 교통사고의 연관성: "https://github.com/junhong625/miniproject"{:target="_blank"}
+  Posts: "https://junhong625.github.io"{:target="_blank"}
   Tags: "tags"
-  Github: "https://www.github.com/junhong625/"
+  Github: "https://www.github.com/junhong625/"{:target="_blank"}
   #Resources:#
   #  - Github: "https://www.github.com/junhong625/"#
 
