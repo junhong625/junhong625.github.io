@@ -7,6 +7,7 @@ layout: page
 .img{padding:20px; width:100px; height:100px}
 .skill{font: normal bold 1.2em/0em 'sans-serif'; text-align:left; padding-left:10px;}
 .line{height:1px; background-color:black; border-color:black;}
+.logo{height:30px; border-radius:10px; margin-left:5px;}
 </style>
 <br>
 <div style="background-color: white; border-radius:50px; border:5px solid black;">
