@@ -2,8 +2,6 @@
 layout: page
 ---
 <style type="text/css">
-a:link{target:_blank;}
-a:visited{target:_blank;}
 .box{float: left; padding-top: 5px; padding-bottom: 5px; padding-left: 8px; padding-right: 8px; border-radius:15px}
 .text{font: normal bold 1.2em/1.2em 'sans-serif'; float: left; padding-left:10px; padding-top:6px}
 .img{padding:20px; width:100px; height:100px}
@@ -64,7 +62,7 @@ Contact.
 Email.
 <br>
 <sub>
-<a style="color:#1EC800; background-color:white; text-decoration:none; border-radius:3px; border:2px solid #1EC800; padding-right:5px;" href="mailto:junhong625@naver.com">
+<a target=_blank style="color:#1EC800; background-color:white; text-decoration:none; border-radius:3px; border:2px solid #1EC800; padding-right:5px;" href="mailto:junhong625@naver.com">
 <img style="float:cneter; margin-right:5px;" height=20 src="https://user-images.githubusercontent.com/83000975/165331894-94882dfe-bc91-44ee-9112-6bebc1e1102f.png">naver 
 </a>
 </sub>
@@ -77,7 +75,7 @@ Email.
 Github.
 <br>
 <sub>
-<a style="color:black; background-color:white; text-decoration:none; border-radius:3px; border:2px solid black; padding-right:5px;" href="https://github.com/junhong625/">
+<a target=_blank style="color:black; background-color:white; text-decoration:none; border-radius:3px; border:2px solid black; padding-right:5px;" href="https://github.com/junhong625/">
 <img style="float:cneter; margin-right:5px;" height=20 src="https://user-images.githubusercontent.com/83000975/165335373-ee5dbce9-3a13-455f-a93b-ea4026e04058.png">
 안준홍
 <br>
@@ -115,40 +113,40 @@ Skills.
     OS.
   </p>
   <hr class="line">
-    <a href="https://www.microsoft.com/ko-kr/windows?r=1"><img class="logo" height=30 src="https://img.shields.io/badge/Window-0078D7?style=flat-square&logo=microsoft&logoColor=white"></a>
-    <a href="https://www.apple.com/kr/macos/monterey/"><img class="logo" src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macos&logoColor=white"></a>
-    <a href="https://ubuntu.com/"><img class="logo" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"></a>
+    <a target=_blank href="https://www.microsoft.com/ko-kr/windows?r=1"><img class="logo" height=30 src="https://img.shields.io/badge/Window-0078D7?style=flat-square&logo=microsoft&logoColor=white"></a>
+    <a target=_blank href="https://www.apple.com/kr/macos/monterey/"><img class="logo" src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macos&logoColor=white"></a>
+    <a target=_blank href="https://ubuntu.com/"><img class="logo" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"></a>
 
   <hr class="line">
   <p class="skill">
   Language.
   </p>
   <hr class="line">
-  <a href="https://www.python.org/"><img class="logo" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
+  <a target=_blank href="https://www.python.org/"><img class="logo" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
 <hr class="line">
   <p class="skill">
   DB.
   </p>
   <hr class="line">
-<a href="https://www.mysql.com/"><img class="logo" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"></a>
+<a target=_blank href="https://www.mysql.com/"><img class="logo" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"></a>
 
   <hr class="line">
   <p class="skill">
   Collaboration Tool.
   </p>
   <hr class="line">
-  <a href="https://slack.com/intl/ko-kr/"><img class="logo" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"></a>
-<a href="https://github.com/"><img class="logo" src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"></a>
-<a href="https://www.google.com/intl/ko_KR/drive/"><img class="logo" src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=google drive&logoColor=white"></a>
+  <a target=_blank href="https://slack.com/intl/ko-kr/"><img class="logo" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"></a>
+<a target=_blank href="https://github.com/"><img class="logo" src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"></a>
+<a target=_blank href="https://www.google.com/intl/ko_KR/drive/"><img class="logo" src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=google drive&logoColor=white"></a>
 
   <hr class="line">
   <p class="skill">
   DEV Tool
   </p>
   <hr class="line">
-  <a href="https://jupyter.org/"><img class="logo" src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"></a>
-<a href="https://www.jetbrains.com/ko-kr/pycharm/"><img class="logo" src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"></a>
-<a href="https://www.mysql.com/products/workbench/"><img class="logo" src="https://img.shields.io/badge/Workbench-4479A1?style=flat-square&logo=Mysql&logoColor=white"></a>
-<a href="https://aws.amazon.com/ko/ec2/"><img class="logo" src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat-square&logo=amazon aws&logoColor=white"></a>
-<a href="https://aws.amazon.com/ko/rds/"><img class="logo" src="https://img.shields.io/badge/AWS RDS-232F3E?style=flat-square&logo=amazon aws&logoColor=white"></a>
+  <a target=_blank href="https://jupyter.org/"><img class="logo" src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"></a>
+<a target=_blank href="https://www.jetbrains.com/ko-kr/pycharm/"><img class="logo" src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"></a>
+<a target=_blank href="https://www.mysql.com/products/workbench/"><img class="logo" src="https://img.shields.io/badge/Workbench-4479A1?style=flat-square&logo=Mysql&logoColor=white"></a>
+<a target=_blank href="https://aws.amazon.com/ko/ec2/"><img class="logo" src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat-square&logo=amazon aws&logoColor=white"></a>
+<a target=_blank href="https://aws.amazon.com/ko/rds/"><img class="logo" src="https://img.shields.io/badge/AWS RDS-232F3E?style=flat-square&logo=amazon aws&logoColor=white"></a>
 </div>
