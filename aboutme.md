@@ -5,9 +5,8 @@ layout: page
 .box{float: left; padding-top: 5px; padding-bottom: 5px; padding-left: 8px; padding-right: 8px; border-radius:15px}
 .text{font: normal bold 1.2em/1.2em 'sans-serif'; float: left; padding-left:10px; padding-top:6px}
 .img{padding:20px; width:100px; height:100px}
-.skill{font: normal bold 1.5em/0em 'sans-serif'; text-align:left; padding-left:10px;}
-.line{height:2px; background-color:black; border-color:black;}
-.logo{height:30px; border-radius:10px; margin-left:5px;}
+.skill{font: normal bold 1.2em/0em 'sans-serif'; text-align:left; padding-left:10px;}
+.line{height:1px; background-color:black; border-color:black;}
 </style>
 <br>
 <div style="background-color: white; border-radius:50px; border:5px solid black;">
@@ -20,6 +19,90 @@ layout: page
 </div>
 </div>
 <br>
+
+<p style="font: normal bold 2em/1em 'sans-serif'; text-align:left; text-decoration: underline; text-underline-position:under;">
+Profile.
+</p>
+
+<div class="box">
+    <img src="https://user-images.githubusercontent.com/83000975/153437869-0da80e9c-e935-418e-8e62-b9b36869980a.png" height=30 width=30>
+</div>
+<div class="text" style="width: 200px;">
+이름. <br> 
+<div>
+<sub>안준홍</sub>
+</div>
+</div>
+<div class="box">
+    <img src="https://user-images.githubusercontent.com/83000975/153437871-1d7331fe-6613-467c-a9c1-2ef092fc3848.jpg" height=30 width=30>
+</div>
+<div class="text" style="width: 200px;">
+생년월일. <br> <sub>96.06.25</sub>
+</div>
+<div class="box">
+    <img src="https://user-images.githubusercontent.com/83000975/153437873-509a68c4-1b8b-4db3-86f6-2fcce08a6bb1.jpg" height=30 width=30>
+</div>
+<div class="text">
+주소지. <br> <sub>서울 동대문구</sub>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+
+<p style="font: normal bold 2em/1em 'sans-serif'; text-align:left; text-decoration: underline; text-underline-position:under;">
+Contact.
+</p>
+<div class="box">
+    <img src="https://user-images.githubusercontent.com/83000975/153439370-563972e4-8f2e-4c18-b96c-ab68029fcf90.jpg" height=30 width=30>
+</div>
+<div class="text" style="width: 200px;">
+Email.
+<br>
+<sub>
+<a style="color:#1EC800; background-color:white; text-decoration:none; border-radius:3px; border:2px solid #1EC800; padding-right:5px;" href="mailto:junhong625@naver.com">
+<img style="float:cneter; margin-right:5px;" height=20 src="https://user-images.githubusercontent.com/83000975/165331894-94882dfe-bc91-44ee-9112-6bebc1e1102f.png">naver 
+</a>
+</sub>
+</div>
+
+<div class="box">
+    <img src="https://user-images.githubusercontent.com/83000975/153437867-846e0d81-5823-4999-ad16-811114ac7322.jpg" height=30 width=30>
+</div>
+<div class="text"> 
+Github.
+<br>
+<sub>
+<a style="color:black; background-color:white; text-decoration:none; border-radius:3px; border:2px solid black; padding-right:5px;" href="https://github.com/junhong625/">
+<img style="float:cneter; margin-right:5px;" height=20 src="https://user-images.githubusercontent.com/83000975/165335373-ee5dbce9-3a13-455f-a93b-ea4026e04058.png">
+안준홍
+<br>
+</a>
+</sub>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+
+<p style="font: normal bold 2em/1em 'sans-serif'; text-align:left; text-decoration: underline; text-underline-position:under;">
+Graduate.
+</p>
+
+<div class="box">
+    <img src="https://user-images.githubusercontent.com/83000975/153754969-61e641fa-c457-4569-95d8-3c04adbfbd1b.png" height=30 width=30>
+</div>
+<div class="text">
+<sub>2015.03 ~ 2021.08  |  서울 세종대학교(체육학과) 졸업</sub> <br><sub>2021.07 ~ 2022.01  |  강남 비트교육센터(빅데이터 분석을 활용한 예측&인공지능(AI) 모델링) 수료</sub>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+
 <p style="font: normal bold 2em/0em 'sans-serif'; text-align:left; text-decoration: underline; text-underline-position:under;">
 Skills.
 </p>
