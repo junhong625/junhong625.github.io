@@ -107,7 +107,6 @@ Graduate.
 Skills.
 </p>
 
-<br>
   <div style="background-color: white; border-radius:10px; border:3px solid black;">
   <p class="skill">
     OS.
