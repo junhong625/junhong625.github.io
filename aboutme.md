@@ -149,3 +149,4 @@ Skills.
 <a href="https://www.mysql.com/products/workbench/"><img class="logo" src="https://img.shields.io/badge/Workbench-4479A1?style=flat-square&logo=Mysql&logoColor=white"></a>
 <a href="https://aws.amazon.com/ko/ec2/"><img class="logo" src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat-square&logo=amazon aws&logoColor=white"></a>
 <a href="https://aws.amazon.com/ko/rds/"><img class="logo" src="https://img.shields.io/badge/AWS RDS-232F3E?style=flat-square&logo=amazon aws&logoColor=white"></a>
+</div>
