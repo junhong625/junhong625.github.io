@@ -28,36 +28,22 @@ Profile.
     <img src="https://user-images.githubusercontent.com/83000975/153437869-0da80e9c-e935-418e-8e62-b9b36869980a.png" height=30 width=30>
 </div>
 <div class="text" style="width: 200px;">
-이름. 
-<br> 
-<sub>
-<a style="width:45px; color:black; background-color:white; border-radius:3px; border:2px solid black; padding-left:5px; padding-right:5px;">
-안준홍
-</a>
-</sub>
+이름. <br> 
+<div>
+<sub>안준홍</sub>
+</div>
 </div>
 <div class="box">
     <img src="https://user-images.githubusercontent.com/83000975/153437871-1d7331fe-6613-467c-a9c1-2ef092fc3848.jpg" height=30 width=30>
 </div>
 <div class="text" style="width: 200px;">
-생년월일. 
-<br>
-<sub>
-<a style="width:45px; color:black; background-color:white; border-radius:3px; border:2px solid black; padding-left:5px; padding-right:5px;">
-96.06.25
-</a>
-</sub>
+생년월일. <br> <sub>96.06.25</sub>
 </div>
 <div class="box">
     <img src="https://user-images.githubusercontent.com/83000975/153437873-509a68c4-1b8b-4db3-86f6-2fcce08a6bb1.jpg" height=30 width=30>
 </div>
 <div class="text">
-주소지. <br>
-<sub>
-<a style="width:45px; color:black; background-color:white; border-radius:3px; border:2px solid black; padding-left:5px; padding-right:5px;">
-서울 동대문구
-</a>
-</sub>
+주소지. <br> <sub>서울 동대문구</sub>
 </div>
 
 <br>
