@@ -19,6 +19,7 @@ navbar-links:
   About Me: "aboutme"
   Projects:
     - A-Fit: "https://github.com/junhong625/A_FIT"
+    - 강수량과 교통사고의 연관성: "https://github.com/junhong625/miniproject"
   Posts: "https://junhong625.github.io"
   Tags: "tags"
   Github: "https://www.github.com/junhong625/"
