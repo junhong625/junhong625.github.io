@@ -61,7 +61,7 @@ Contact.
 Email.
 <br>
 <sub>
-<a style="color:#1EC800; background-color:white; text-decoration:none; border-radius:3px; border:2px solid #1EC800; padding-right:5px;" href="mailto:junhong625@gmail.com">
+<a style="color:#1EC800; background-color:white; text-decoration:none; border-radius:3px; border:2px solid #1EC800; padding-right:5px;" href="mailto:junhong625@naver.com">
 <img style="float:cneter; margin-right:5px;" height=20 src="https://user-images.githubusercontent.com/83000975/165331894-94882dfe-bc91-44ee-9112-6bebc1e1102f.png">naver 
 </a>
 </sub>
