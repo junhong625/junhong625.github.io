@@ -62,7 +62,7 @@ blockquote p:first-child {
   margin-top: 0;
 }
 hr.small {
-  max-width: 100%;
+  max-width: 6.25rem;
   margin: 1rem auto;
   border-width: 0.25rem;
   border-color: inherit;
@@ -979,7 +979,7 @@ pre {
 }
 
 .blog-post hr {
-  max-width: 25%;
+  max-width: 100%;
   border-width: 0.25rem;
   border-radius: 0.1875rem;
   border-color: #808080;
