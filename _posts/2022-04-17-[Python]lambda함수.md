@@ -20,13 +20,13 @@ comments: true
 
 ## lambda 함수 사용법
 기본적인 사용 방법은 `lambda 매개변수 : 표현식`으로 아래와 같이 사용할 수 있습니다.
-``` 
+``` python
 (lambda x:x+5)(5)
 ```
 > 10  
 
 만약 위의 `lambda 함수`를 `def 함수`로 표현을 한다면?
-```
+```python
 def plus(x):
     return x+5
 def plus(5)
@@ -41,7 +41,7 @@ def plus(5)
 ## map() 함수 사용법
 기본적으로 `map 함수`는 `map(함수, 리스트)`의 형식으로 사용됩니다. 그리고 **리스트로부터 원소를 하나씩 꺼내서 함수를 적용시킨 다음 새로운 리스트에 그 결과를 담아줍니다.**  
 예제를 보겠습니다.
-```
+```python
 list(map(lambda x : x * 2, range(7)))
 ```
 > [0, 2, 4, 6, 8, 10, 12]
@@ -52,7 +52,7 @@ for문을 이용하여 하나씩 꺼내 사용하던 함수를 `map() 함수`를
 ## reduce() 함수 사용법
 `reduce 함수`는 `reduce(함수, 시퀀스)`의 형식으로 (시퀀스란 list, tuple, range, 문자열 즉, 값이 연속적으로 이어져 있는 자료형을 뜻하는 것입니다.) **원소들을 누적적으로 함수에 적용시킵니다.**  
 예제를 보겠습니다.
-```
+```python
 from functools import reduce # 파이썬 3에서는 라이브러리에서 불러와줘야 사용 가능합니다.
 total = 0
 reduce(lambda x, y : x + y, range(101))
@@ -62,7 +62,7 @@ reduce(lambda x, y : x + y, range(101))
 위와 같이 `reduce 함수`를 사용하면 range(101) 즉, 0부터 100까지 들어있는 리스트를 받아 100까지 원소를 하나씩 꺼내와 모든 숫자를 더하는 구조로 실행됩니다.
    
 그리고 wikidocs에 올라와있는 lambda함수 관련 내용 중 reduce함수의 재미있는 예제가 있어 그 예제에 대해서도 한번 살펴보겠습니다.[Link](https://wikidocs.net/64#:~:text=%EC%9D%98%EA%B8%B0%EC%96%91%EC%96%91%ED%95%98%EA%B2%8C%20%27%EC%98%88%27%EB%9D%BC%EA%B3%A0,%EC%84%A4%EB%AA%85%20%EC%95%88%20%ED%95%B4%EB%93%9C%EB%A6%B4%EB%9E%8D%EB%8B%88%EB%8B%A4~)
-```
+```python
 reduce(lambda x, y : y + x, 'abcde')
 ```
 이러한 예제가 있다면 과연 결과물은 어떻게 나올까요?
@@ -73,7 +73,7 @@ reduce(lambda x, y : y + x, 'abcde')
 ## filter() 함수 사용법
 `filter 함수`는 `filter(함수, 리스트)`의 형식으로 단어 뜻 그대로 필터로 걸러주는 것입니다. 원소들을 하나씩 함수에 적용시켜 결과가 True인 값들로 새로운 리스트를 만들어주는 것이죠.  
 아래 예제를 보시겠습니다.
-```
+```python
 list(filter(lambda x : x % 2 == 0, range(10)))
 ```
 > [0, 2, 4, 6, 8]
