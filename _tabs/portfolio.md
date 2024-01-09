@@ -20,10 +20,6 @@ order: 4
     .img {
         pointer-events: none;
     }
-    h1 {
-        margin-top: 30px !important; 
-        margin-bottom: 30px !important;
-    }
     .communication {
         color: #1F9DEA;
     }
