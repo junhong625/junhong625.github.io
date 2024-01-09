@@ -25,7 +25,7 @@ html {
     }
   }
 
-  font-size: 16px;
+  font-size: 20px;
 }
 
 body {
@@ -690,6 +690,10 @@ $btn-mb: 0.5rem;
   width: $sidebar-width;
   z-index: 99;
   background: var(--sidebar-bg);
+  background: url('/assets/img/profile/background.jpeg');
+  background-size: 100% 100%;
+  background-position: center;
+  // opacity: 0.5;
   border-right: 1px solid var(--sidebar-border-color);
 
   /* Hide scrollbar for Chrome, Safari and Opera */
@@ -716,6 +720,8 @@ $btn-mb: 0.5rem;
     width: 7rem;
     height: 7rem;
     overflow: hidden;
+    text-align: center;
+    background-color: white;
     box-shadow: var(--avatar-border-color) 0 0 0 2px;
     transform: translateZ(0); /* fixed the zoom in Safari */
 
@@ -816,13 +822,15 @@ $btn-mb: 0.5rem;
   }
 
   .sidebar-bottom {
-    padding-left: 2rem;
-    padding-right: 1rem;
+    // padding-left: 2rem;
+    // padding-right: 4rem;
     margin-bottom: 1.5rem;
 
-    $btn-size: 1.75rem;
+    $btn-size: 2rem;
 
     %button {
+      margin-left: 1rem;
+      margin-right: 1rem;
       width: $btn-size;
       height: $btn-size;
       margin-bottom: $btn-mb; // multi line gap
@@ -1491,7 +1499,7 @@ search {
 
   #main-wrapper > .container {
     max-width: $main-content-max-width;
-    padding-left: 1.75rem !important;
+    // padding-left: 1.75rem !important;
     padding-right: 1.75rem !important;
   }
 
@@ -1522,7 +1530,7 @@ search {
     }
 
     .sidebar-bottom {
-      padding-left: 2.75rem;
+      // padding-left: 2.75rem;
       margin-bottom: 1.75rem;
 
       a:not(:last-child) {

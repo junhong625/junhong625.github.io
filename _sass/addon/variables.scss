@@ -2,11 +2,29 @@
  * The SCSS variables
  */
 
+@font-face {
+    font-family: 'seolleimcool-SemiBold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2312-1@1.1/seolleimcool-SemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'NPSfontBold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2310@1.0/NPSfontBold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'NPSfontRegular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2310@1.0/NPSfontRegular.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
 /* sidebar */
 
-$sidebar-width: 260px !default; /* the basic width */
-$sidebar-width-large: 300px !default; /* screen width: >= 1650px */
-$sb-btn-gap: 0.8rem !default;
+$sidebar-width: 350px !default; /* the basic width */
+$sidebar-width-large: 500px !default; /* screen width: >= 1650px */
+$sb-btn-gap: 1rem !default;
 $sb-btn-gap-lg: 1rem !default;
 
 /* other framework sizes */
@@ -28,6 +46,6 @@ $code-dot-gap: 0.5rem !default;
 $code-icon-width: 1.75rem !default;
 
 /* fonts */
-
-$font-family-base: 'Source Sans Pro', 'Microsoft Yahei', sans-serif !default;
-$font-family-heading: Lato, 'Microsoft Yahei', sans-serif !default;
+$custom-font: 'NPSfontRegular';
+$font-family-base: $custom-font, 'Source Sans Pro', 'Microsoft Yahei', sans-serif !default;
+$font-family-heading: $custom-font, Lato, 'Microsoft Yahei', sans-serif !default;
