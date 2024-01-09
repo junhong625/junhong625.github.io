@@ -1,7 +1,7 @@
 ---
 layout: default
 icon: fa-solid fa-address-card
-# order: 4
+order: 4
 ---
 <style>
     h1 {
@@ -40,7 +40,7 @@ icon: fa-solid fa-address-card
 <h1>[<span class="communication">소통</span>은 최고의 문제 해결 방법이자 예방 방법]</h1>
 <div class="d-flex align-items-center">
 <!-- <div class="" style="width:200px;"> -->
-<img src="/assets/img/profile/avatar.jpg" style="width:300px; margin-top:30px;">
+<img alt="avatar" src="/assets/img/profile/avatar.jpg" style="width:300px; margin-top:30px;">
 <!-- </div> -->
 <h1 style="line-height: 175%;">
 "안녕하세요! 👋<br>
@@ -75,7 +75,7 @@ icon: fa-solid fa-address-card
 
 `github` : [github.com/junhong625](https://github.com/junhong625)
 
-`blog` : [junhong625.github.io](http://junhong625.github.io)
+`blog` : [junhong625.github.io](https://junhong625.github.io)
 
 <h2> 📝 SKILLS </h2>
 
