@@ -9,7 +9,7 @@
     font-style: normal;
 }
 @font-face {
-    font-family: 'NPSfontBold';
+    font-family: 'NPSfontRegular';
     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2310@1.0/NPSfontBold.woff2') format('woff2');
     font-weight: 700;
     font-style: normal;
@@ -17,6 +17,12 @@
 @font-face {
     font-family: 'NPSfontRegular';
     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2310@1.0/NPSfontRegular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'NPSfontBold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2310@1.0/NPSfontBold.woff2') format('woff2');
     font-weight: 700;
     font-style: normal;
 }
@@ -47,5 +53,6 @@ $code-icon-width: 1.75rem !default;
 
 /* fonts */
 $custom-font: 'NPSfontRegular';
+$custom-font-bold: 'NPSfontBold';
 $font-family-base: $custom-font, 'Source Sans Pro', 'Microsoft Yahei', sans-serif !default;
-$font-family-heading: $custom-font, Lato, 'Microsoft Yahei', sans-serif !default;
+$font-family-heading: $custom-font-bold, Lato, 'Microsoft Yahei', sans-serif !default;
