@@ -17,5 +17,5 @@ package-lock.json
 # IDE configurations
 .idea
 .vscode
-
+/*.DS_Store
 # Misc
