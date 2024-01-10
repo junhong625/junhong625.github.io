@@ -25,7 +25,7 @@ html {
     }
   }
 
-  font-size: 1em;
+  font-size: 1rem
 }
 
 body {
@@ -50,8 +50,10 @@ body {
 
     @if $i < 5 {
       $factor: 0.18rem;
-
-      @if $i == 1 {
+      @if $i == 2 {
+	$factor: 0.35rem;
+      }
+      @else if $i == 1 {
         $factor: 0.23rem;
       }
 
