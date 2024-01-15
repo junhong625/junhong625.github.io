@@ -34,7 +34,7 @@ order: 4
         /* border-width: 10px !important; */
         /* border-radius: 40%; */
         width: 100%;
-        height: 500px;
+        height: 100px;
     }
     #wordbox {
         /* position: absolute; */
@@ -60,18 +60,30 @@ order: 4
  <span class="red">혼자</span>보다 <span class="blue">함께</span>가 익숙한<br>
  Backend 개발자<br>
  <span class="bold">안준홍</span>입니다!"
- </b>
+</b>
+<div>
+</div>
 </h1>
 </div>
 <!-- <h2>축구 선수로서 단체 생활이 익숙하고 </h2> -->
-<hr>
-<p style="line-height: 300%;"><span class="bbold">안준홍은?</span><br>
+<!-- <p style="line-height: 300%;"><span class="bbold">안준홍은?</span><br> -->
 <div class="border dragbox">
 <div style="width:80%">
 <div id="wordbox"># 축구선수</div> <div id="wordbox"># 소통</div> <div id="wordbox"># 끈기</div> <div id="wordbox"># 책임감</div> <div id="wordbox"># 적응력</div> <div id="wordbox"># 단체생활</div> <div id="wordbox"># 리더십</div>
 </div>
 </div>
-</p>
+<hr>
+
+`이름` : 안준홍
+
+`e-mail` : junhong625@gmail.com
+
+`phone` : 010-9972-3173
+
+`github` : [github.com/junhong625](https://github.com/junhong625)
+
+`blog` : [junhong625.github.io](https://junhong625.github.io)
+<!-- </p> -->
 <!-- 최선의 선택을 하기 위해 항상 <span class="communication bold">소통</span>하고, <br> 최고의 결과를 얻기 위해 항상 <span class="communication bold">소통</span>합니다. <br>
 11년간 <span class="bold">축구선수⚽</span>로서 경험한 공동체 생활로 인해 <br> 
 혼자보다<span class="communication bold"> 함께하고 협력</span>하는 것에 익숙하고 <br>
@@ -176,8 +188,10 @@ order: 4
 - 4번의 프로젝트 서버로 사용<br>
 <br>
 </div>
+</div>
+<br>
 
-<!-- ## 🏆 Awards
+## 🏆 Awards
 
 ---
 
@@ -202,23 +216,11 @@ order: 4
 
 ---
 
-`2022.07 - 2023.06` 
-
-`2021.07 - 2022.01` 
-
-`2015.03 - 2021.08`  
-
-삼성 SW 청년 아카데미 SSAFY 교육
-
-강남 비트교육센터 빅데이터 & AI 과정
-
-세종대학교 체육학과
-
-수료
-
-수료
-
-졸업
+| 기간 | 교육 과정 | 상태 |
+|---|---|---|
+|`2022.07 - 2023.06`|삼성 SW 청년 아카데미 SSAFY 교육|**수료**
+|`2021.07 - 2022.01`|강남 비트교육센터 빅데이터 & AI 과정|**수료**
+|`2015.03 - 2021.08`|세종대학교 체육학과|**졸업**
 
 ## 👩‍💻 Project Summary
 
@@ -297,15 +299,3 @@ order: 4
 
 - Tensorflow로 학습을 진행해 운동 자세(Stand, Squat, Plank) 판별 AI 모델 생성
 - AI가 판별한 자세에 따라 MediaPipe를 통해 구해진 좌표값 데이터를 Numpy를 이용해 각도를 계산해 자세 평가 알고리즘 구현
-
----
-
-`이름` : 안준홍
-
-`e-mail` : junhong625@gmail.com
-
-`phone` : 010-9972-3173
-
-`github` : [github.com/junhong625](https://github.com/junhong625)
-
-`blog` : [junhong625.github.io](https://junhong625.github.io) -->
